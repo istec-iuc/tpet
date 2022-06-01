@@ -262,3 +262,20 @@ honeytrap v1.1.0 Copyright (C) 2005-2015 Tillmann Werner <tillmann.werner@gmx.de
 [2022-06-01 14:27:52] 89.248.165.76:57382 requesting tcp connection on 10.182.0.11:4433.
 [2022-06-01 14:27:55] ->  3116/tcp  No incoming connection for 120 seconds - server terminated.
 [2022-06-01 14:28:00] ->  8333/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:28:13] -> 11889/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:28:15] ->  3030/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:28:16] 65.49.20.96:48802 requesting tcp connection on 10.182.0.11:5901.
+[2022-06-01 14:28:17] ->  6817/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:28:23] 162.142.125.182:20542 requesting tcp connection on 10.182.0.11:11180.
+[2022-06-01 14:28:24] 192.241.222.157:48138 requesting tcp connection on 10.182.0.11:9999.
+[2022-06-01 14:28:24]     9999/tcp  Handling tcp connection request from 192.241.222.157:48138 to 10.182.0.11:9999.
+[2022-06-01 14:28:24] -> 48384/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:28:25]     9999/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:28:25]     9999/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:28:25]  *  9999/tcp  No bytes received from 192.241.222.157:48138.
+[2022-06-01 14:28:26] 185.156.73.57:47457 requesting tcp connection on 10.182.0.11:18167.
+[2022-06-01 14:28:33] -> 18579/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:28:49] 79.124.62.78:59094 requesting tcp connection on 10.182.0.11:5536.
+[2022-06-01 14:28:50] -> 12348/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:28:54] ->  9150/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:28:55] -> 12345/tcp  No incoming connection for 120 seconds - server terminated.

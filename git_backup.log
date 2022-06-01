@@ -6,20 +6,22 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
 	modified:   cowrie/log/cowrie.json
+	modified:   dionaea/log/dionaea.json
+	modified:   dionaea/log/dionaea.sqlite
 	modified:   fatt/log/fatt.log
 	modified:   git_backup.log
-	modified:   heralding/log/log_session.json
-	modified:   heralding/log/session.csv
 	modified:   honeytrap/log/attacker.log
 	modified:   honeytrap/log/attackers.json
 	modified:   honeytrap/log/honeytrap.log
 	modified:   p0f/log/p0f.json
+	modified:   redishoneypot/log/redishoneypot.log
 	modified:   sentrypeer/log/sentrypeer.db
 	modified:   sentrypeer/log/sentrypeer.json
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	honeytrap/attacks/from_port_12514-tcp_110_2022-06-01_md5_cf987461beb0346098869292e73a98ea
-	honeytrap/attacks/from_port_8075-tcp_103_2022-06-01_md5_32ca4cedd331f03e25783e86bfa7316b
+	cowrie/log/tty/90aae1afcc8001c507b725818d9ec1492b4db81a949e76e4ca680cc22dfea342
+	cowrie/log/tty/f2d5dff1f1d01f378a1fc32977f3b505a25e970a1645eb0550875e09f3297efb
+	dionaea/bistreams/
 
 no changes added to commit (use "git add" and/or "git commit -a")

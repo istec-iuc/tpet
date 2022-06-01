@@ -1,0 +1,1 @@
+{"connection": {"protocol": "pptpd", "transport": "tcp", "type": "accept"}, "dst_ip": "172.28.0.2", "dst_port": 1723, "src_hostname": "", "src_ip": "178.128.66.109", "src_port": 33476, "timestamp": "2022-06-01T14:28:28.905828"}
