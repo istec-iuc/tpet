@@ -106,3 +106,56 @@ honeytrap v1.1.0 Copyright (C) 2005-2015 Tillmann Werner <tillmann.werner@gmx.de
 [2022-06-01 14:15:36] -> 12428/tcp  No incoming connection for 120 seconds - server terminated.
 [2022-06-01 14:15:41] ->  8444/tcp  No incoming connection for 120 seconds - server terminated.
 [2022-06-01 14:15:57] ->  4666/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:16:07] ->  8500/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:16:11] 45.155.205.41:45033 requesting tcp connection on 10.182.0.11:5771.
+[2022-06-01 14:16:24] 162.142.125.184:63905 requesting tcp connection on 10.182.0.11:18061.
+[2022-06-01 14:16:28] -> 43003/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:16:40] 167.94.145.94:45683 requesting tcp connection on 10.182.0.11:20000.
+[2022-06-01 14:16:41] 167.94.145.60:46298 requesting tcp connection on 10.182.0.11:20000.
+[2022-06-01 14:16:41]    20000/tcp  Handling tcp connection request from 167.94.145.60:46298 to 10.182.0.11:20000.
+[2022-06-01 14:16:41]    20000/tcp* 1000 bytes read.
+[2022-06-01 14:16:41] ->  9013/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:16:42] ->  5660/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:16:42]    20000/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:16:42]    20000/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:16:42]  * 20000/tcp  1000 bytes attack string from 167.94.145.60:46298.
+[2022-06-01 14:16:42] 167.94.145.60:56442 requesting tcp connection on 10.182.0.11:20000.
+[2022-06-01 14:16:42]    20000/tcp  Handling tcp connection request from 167.94.145.60:56442 to 10.182.0.11:20000.
+[2022-06-01 14:16:43] 167.94.138.45:34434 requesting tcp connection on 10.182.0.11:5223.
+[2022-06-01 14:16:43]     5223/tcp  Handling tcp connection request from 167.94.138.45:34434 to 10.182.0.11:5223.
+[2022-06-01 14:16:43]     5223/tcp* 243 bytes read.
+[2022-06-01 14:16:43]    20000/tcp  Could not read data: No such file or directory.
+[2022-06-01 14:16:43] 167.94.145.60:33518 requesting tcp connection on 10.182.0.11:20000.
+[2022-06-01 14:16:43]  * 20000/tcp  No bytes received from 167.94.145.60:56442.
+[2022-06-01 14:16:43]    20000/tcp  Handling tcp connection request from 167.94.145.60:33518 to 10.182.0.11:20000.
+[2022-06-01 14:16:43]    20000/tcp* 243 bytes read.
+[2022-06-01 14:16:44]     5223/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:16:44]     5223/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:16:44]  *  5223/tcp  243 bytes attack string from 167.94.138.45:34434.
+[2022-06-01 14:16:44] 167.94.138.45:36240 requesting tcp connection on 10.182.0.11:5223.
+[2022-06-01 14:16:44]     5223/tcp  Handling tcp connection request from 167.94.138.45:36240 to 10.182.0.11:5223.
+[2022-06-01 14:16:44] 162.142.125.186:63142 requesting tcp connection on 10.182.0.11:12491.
+[2022-06-01 14:16:44]    20000/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:16:44]    20000/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:16:44]  * 20000/tcp  243 bytes attack string from 167.94.145.60:33518.
+[2022-06-01 14:16:44] 167.94.145.60:43758 requesting tcp connection on 10.182.0.11:20000.
+[2022-06-01 14:16:45]    20000/tcp  Handling tcp connection request from 167.94.145.60:43758 to 10.182.0.11:20000.
+[2022-06-01 14:16:45]     5223/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:16:45]     5223/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:16:45]  *  5223/tcp  No bytes received from 167.94.138.45:36240.
+[2022-06-01 14:16:45] 167.94.138.45:36704 requesting tcp connection on 10.182.0.11:5223.
+[2022-06-01 14:16:45]     5223/tcp  Handling tcp connection request from 167.94.138.45:36704 to 10.182.0.11:5223.
+[2022-06-01 14:16:45]     5223/tcp* 243 bytes read.
+[2022-06-01 14:16:46]    20000/tcp* 46 bytes read.
+[2022-06-01 14:16:46]     5223/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:16:46]     5223/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:16:46]  *  5223/tcp  243 bytes attack string from 167.94.138.45:36704.
+[2022-06-01 14:16:46] 167.94.138.45:47662 requesting tcp connection on 10.182.0.11:5223.
+[2022-06-01 14:16:46]     5223/tcp  Handling tcp connection request from 167.94.138.45:47662 to 10.182.0.11:5223.
+[2022-06-01 14:16:47]    20000/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:16:47]    20000/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:16:47]  * 20000/tcp  46 bytes attack string from 167.94.145.60:43758.
+[2022-06-01 14:16:47]     5223/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:16:47]     5223/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:16:47]  *  5223/tcp  No bytes received from 167.94.138.45:47662.
+[2022-06-01 14:16:47] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:5223.
