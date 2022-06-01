@@ -13,3 +13,12 @@
 2022-06-01 14:02:43,887 - 140405599812408 - ADBHoneypot - INFO - data is none?: None
 2022-06-01 14:02:43,887 - 140405599812408 - ADBHoneypot - INFO - 11.7888343334198	211.227.91.163	connection closed
 2022-06-01 14:02:43,887 - 140405599812408 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '211.227.91.163', 'duration': '11.79', 'timestamp': '2022-06-01T14:02:43.886748Z', 'unixtime': 1654092163, 'session': '738adc73fca8', 'sensor': 'honeypot01'}
+2022-06-01 14:04:21,700 - 140405599812408 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2022-06-01 14:04:21,701 - 140405599812408 - ADBHoneypot - INFO - 50.93.92.249 connection start (d5f381c045d4)
+2022-06-01 14:04:21,701 - 140405599812408 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '50.93.92.249', 'src_port': 46495, 'dest_ip': '172.18.0.2', 'dest_port': '5555', 'timestamp': '2022-06-01T14:04:21.701238Z', 'unixtime': 1654092261, 'session': 'd5f381c045d4', 'sensor': 'honeypot01'}
+2022-06-01 14:04:21,785 - 140405599812408 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2022-06-01 14:04:21,786 - 140405599812408 - ADBHoneypot - INFO - 50.93.92.249 connection start (fd86dfcc8985)
+2022-06-01 14:04:21,786 - 140405599812408 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '50.93.92.249', 'src_port': 46498, 'dest_ip': '172.18.0.2', 'dest_port': '5555', 'timestamp': '2022-06-01T14:04:21.785958Z', 'unixtime': 1654092261, 'session': 'fd86dfcc8985', 'sensor': 'honeypot01'}
+2022-06-01 14:04:24,861 - 140405599812408 - ADBHoneypot - INFO - shell command is pm path com.google.home.tv, len 26
+2022-06-01 14:04:24,861 - 140405599812408 - ADBHoneypot - INFO - 50.93.92.249	b'shell:pm path com.google.home.tv'
+2022-06-01 14:04:24,861 - 140405599812408 - ADBHoneypot - INFO - {'eventid': 'adbhoney.command.input', 'input': 'pm path com.google.home.tv', 'src_ip': '50.93.92.249', 'timestamp': '2022-06-01T14:04:24.861236Z', 'unixtime': 1654092264, 'session': 'fd86dfcc8985', 'sensor': 'honeypot01'}
