@@ -3,13 +3,14 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
+  (use "git add/rm <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   adbhoney/log/adbhoney.json
-	modified:   adbhoney/log/adbhoney.log
 	modified:   cowrie/log/cowrie.json
 	modified:   fatt/log/fatt.log
 	modified:   git_backup.log
+	deleted:    honeytrap/attacks/from_port_3116-tcp_65_2022-06-01
+	deleted:    honeytrap/attacks/from_port_3116-tcp_67_2022-06-01
+	deleted:    honeytrap/attacks/from_port_8333-tcp_70_2022-06-01
 	modified:   honeytrap/log/attacker.log
 	modified:   honeytrap/log/attackers.json
 	modified:   honeytrap/log/honeytrap.log
@@ -19,8 +20,13 @@ Changes not staged for commit:
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	honeytrap/attacks/from_port_3116-tcp_65_2022-06-01
-	honeytrap/attacks/from_port_3116-tcp_67_2022-06-01
-	honeytrap/attacks/from_port_8333-tcp_70_2022-06-01
+	cowrie/log/tty/8b4dafe9da61479ebb8927cb03b2fd739ffe5c99a65e535a46c51ad45724e559
+	cowrie/log/tty/cf308ddf7548fb0781c97e5679cdced2167597fa04e46079a389ac4a3ebffc5a
+	honeytrap/attacks/from_port_12345-tcp_92_2022-06-01_md5_fa17c5655c970221f51933b990d034ca
+	honeytrap/attacks/from_port_12348-tcp_81_2022-06-01_md5_3ef8f1fb0d71fe8dcee26ab422ffe1de
+	honeytrap/attacks/from_port_3116-tcp_65_2022-06-01_md5_42b150ca7f0539226bde20215bb442e8
+	honeytrap/attacks/from_port_3116-tcp_67_2022-06-01_md5_2ec520d5c250fbdd0d6a8d9f7e027cc6
+	honeytrap/attacks/from_port_8333-tcp_70_2022-06-01_md5_083d3d5a98de9b25a0bb94b8dd4f7915
+	honeytrap/attacks/from_port_9150-tcp_90_2022-06-01_md5_19f5204e65d833f5ae5461874fe0e008
 
 no changes added to commit (use "git add" and/or "git commit -a")
