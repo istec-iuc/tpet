@@ -1,6 +1,6 @@
 # ssdp blacklist
 # List of all scanners/attackers
-# Generated: 2022-06-01 12:57:53.733352
+# Generated: 2022-06-01 14:00:00.220670
 13.40.5.244
 45.148.10.81
 45.154.96.251

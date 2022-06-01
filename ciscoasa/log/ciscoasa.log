@@ -8,3 +8,9 @@ Starting server on port 8443/tcp, use <Ctrl-C> to stop
 {'timestamp': '2022-06-01T13:08:33.968144', 'src_ip': '168.100.10.127', 'payload_printable': 'Request timed out: timeout('The read operation timed out')'}
 {'timestamp': '2022-06-01T13:08:34.904871', 'src_ip': '168.100.10.127', 'payload_printable': '"GET / HTTP/1.1" 200 -'}
 {'timestamp': '2022-06-01T13:08:37.908118', 'src_ip': '168.100.10.127', 'payload_printable': 'Request timed out: timeout('The read operation timed out')'}
+{'timestamp': '2022-06-01T13:57:56.419126', 'src_ip': '167.94.138.44', 'payload_printable': '"GET /api HTTP/1.1" 404 -'}
+{'timestamp': '2022-06-01T13:57:59.691921', 'src_ip': '167.94.138.44', 'payload_printable': '"GET / HTTP/1.1" 200 -'}
+{'timestamp': '2022-06-01T13:58:00.411803', 'src_ip': '167.94.138.44', 'payload_printable': '"GET / HTTP/1.1" 200 -'}
+{'timestamp': '2022-06-01T13:58:03.414547', 'src_ip': '167.94.138.44', 'payload_printable': 'Request timed out: timeout('The read operation timed out')'}
+{'timestamp': '2022-06-01T13:58:03.583816', 'src_ip': '167.94.138.44', 'payload_printable': 'code 505, message Invalid HTTP version (2.0)'}
+{'timestamp': '2022-06-01T13:58:03.584028', 'src_ip': '167.94.138.44', 'payload_printable': '"PRI * HTTP/2.0" 505 -'}

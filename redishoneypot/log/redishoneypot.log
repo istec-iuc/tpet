@@ -13,3 +13,6 @@
 {"action":"NewConnect","addr":"110.42.231.106:35306","level":"info","msg":"","time":"2022-06-01 13:21:50"}
 {"action":"info","addr":"110.42.231.106:35306","level":"info","msg":"","time":"2022-06-01 13:21:50"}
 {"action":"Closed","addr":"110.42.231.106:35306","level":"info","msg":"","time":"2022-06-01 13:21:50"}
+{"action":"NewConnect","addr":"220.180.37.195:15849","level":"info","msg":"","time":"2022-06-01 13:54:25"}
+{"action":"info","addr":"220.180.37.195:15849","level":"info","msg":"","time":"2022-06-01 13:54:25"}
+{"action":"Closed","addr":"220.180.37.195:15849","level":"info","msg":"","time":"2022-06-01 13:54:26"}
