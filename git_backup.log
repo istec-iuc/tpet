@@ -3,282 +3,54 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
+  (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   adbhoney/downloads.tgz
-	modified:   adbhoney/downloads.tgz.1
-	modified:   adbhoney/downloads.tgz.2
-	modified:   adbhoney/log/adbhoney.json
-	modified:   adbhoney/log/adbhoney.json.1.gz
-	modified:   adbhoney/log/adbhoney.json.2.gz
-	modified:   adbhoney/log/adbhoney.json.3.gz
-	modified:   adbhoney/log/adbhoney.json.4.gz
-	modified:   adbhoney/log/adbhoney.json.5.gz
-	modified:   adbhoney/log/adbhoney.json.6.gz
 	modified:   adbhoney/log/adbhoney.log
-	modified:   adbhoney/log/adbhoney.log.1.gz
-	modified:   adbhoney/log/adbhoney.log.2.gz
-	modified:   adbhoney/log/adbhoney.log.3.gz
-	modified:   adbhoney/log/adbhoney.log.4.gz
-	modified:   adbhoney/log/adbhoney.log.5.gz
-	modified:   adbhoney/log/adbhoney.log.6.gz
 	modified:   ciscoasa/log/ciscoasa.log
-	modified:   ciscoasa/log/ciscoasa.log.1.gz
-	modified:   ciscoasa/log/ciscoasa.log.2.gz
-	modified:   ciscoasa/log/ciscoasa.log.3.gz
-	modified:   ciscoasa/log/ciscoasa.log.4.gz
-	modified:   ciscoasa/log/ciscoasa.log.5.gz
-	modified:   ciscoasa/log/ciscoasa.log.6.gz
 	modified:   citrixhoneypot/logs/server.log
-	modified:   citrixhoneypot/logs/server.log.1.gz
-	modified:   citrixhoneypot/logs/server.log.2.gz
-	modified:   citrixhoneypot/logs/server.log.3.gz
-	modified:   citrixhoneypot/logs/server.log.4.gz
-	modified:   citrixhoneypot/logs/server.log.5.gz
-	modified:   citrixhoneypot/logs/server.log.6.gz
 	modified:   conpot/log/conpot_IEC104.log
-	modified:   conpot/log/conpot_IEC104.log.1.gz
-	modified:   conpot/log/conpot_IEC104.log.2.gz
-	modified:   conpot/log/conpot_IEC104.log.3.gz
-	modified:   conpot/log/conpot_IEC104.log.4.gz
-	modified:   conpot/log/conpot_IEC104.log.5.gz
-	modified:   conpot/log/conpot_IEC104.log.6.gz
 	modified:   conpot/log/conpot_guardian_ast.log
-	modified:   conpot/log/conpot_guardian_ast.log.1.gz
-	modified:   conpot/log/conpot_guardian_ast.log.2.gz
-	modified:   conpot/log/conpot_guardian_ast.log.3.gz
-	modified:   conpot/log/conpot_guardian_ast.log.4.gz
-	modified:   conpot/log/conpot_guardian_ast.log.5.gz
-	modified:   conpot/log/conpot_guardian_ast.log.6.gz
 	modified:   conpot/log/conpot_ipmi.log
-	modified:   conpot/log/conpot_ipmi.log.1.gz
-	modified:   conpot/log/conpot_ipmi.log.2.gz
-	modified:   conpot/log/conpot_ipmi.log.3.gz
-	modified:   conpot/log/conpot_ipmi.log.4.gz
-	modified:   conpot/log/conpot_ipmi.log.5.gz
-	modified:   conpot/log/conpot_ipmi.log.6.gz
 	modified:   conpot/log/conpot_kamstrup_382.log
-	modified:   conpot/log/conpot_kamstrup_382.log.1.gz
-	modified:   conpot/log/conpot_kamstrup_382.log.2.gz
-	modified:   conpot/log/conpot_kamstrup_382.log.3.gz
-	modified:   conpot/log/conpot_kamstrup_382.log.4.gz
-	modified:   conpot/log/conpot_kamstrup_382.log.5.gz
-	modified:   conpot/log/conpot_kamstrup_382.log.6.gz
-	modified:   cowrie/downloads.tgz
-	modified:   cowrie/downloads.tgz.1
-	modified:   cowrie/downloads.tgz.2
-	modified:   cowrie/downloads.tgz.3
-	modified:   cowrie/downloads.tgz.4
-	deleted:    cowrie/downloads/a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2
 	modified:   cowrie/log/cowrie.json
-	modified:   cowrie/log/cowrie.json.1.gz
-	modified:   cowrie/log/cowrie.json.2.gz
-	modified:   cowrie/log/cowrie.json.3.gz
-	modified:   cowrie/log/cowrie.json.4.gz
-	modified:   cowrie/log/cowrie.json.5.gz
-	modified:   cowrie/log/cowrie.json.6.gz
-	deleted:    cowrie/log/tty/150ea16b52a134db1f65b8541b140a19fe2a4422137b6369c2b0d84430741c39
-	deleted:    cowrie/log/tty/28720365c5e7476a011e4f43ac003ee5f16247a263b9d623aa85ed311d73bf39
-	deleted:    cowrie/log/tty/28ba533b0f3c4df63d6b4a5ead73860697bdf735bb353e4ca928474889eb8a15
-	deleted:    cowrie/log/tty/3f1f9a5db692d999bb3d576b5e9956a242136e961ff3f52ba6202b1254ccdb99
-	deleted:    cowrie/log/tty/4df760bcb44b43145481bf885b240f05d9f090c62295be00d148a0d39793b2b6
-	deleted:    cowrie/log/tty/50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326
-	deleted:    cowrie/log/tty/5c0be87ed7434d69005f8bbd84cad8ae6abfd49121b4aaeeb4c1f4a2e2987711
-	deleted:    cowrie/log/tty/64426356ffcabc3671e5bd0acff75ec85278dc0d4ff5dac8cc07a9dc05a4c420
-	deleted:    cowrie/log/tty/64b8bc258701c67aa3481e3631e080029c2510c2b499e4fffd0a4363ec55d83f
-	deleted:    cowrie/log/tty/70649e856211add79ca25c1553a07628b9cb723f8850a4d62280a276530d626f
-	deleted:    cowrie/log/tty/865931e5375cc475ce44fa36d6c4cd5f42618cf106b1bd389ee8b66e7cd8354a
-	deleted:    cowrie/log/tty/95df9ab820c0b94e87412330a566c7e47ceef0cfc297bbe2c51a198d1b017abe
-	deleted:    cowrie/log/tty/a28dd0be4d71a20d853d1770a896f623b4558fd8f00a6e06cc489263029b66f0
-	deleted:    cowrie/log/tty/ab1fb68311b4d2a718123c07a514cfe211df2e9109eeecc6f6f953af961c763c
-	deleted:    cowrie/log/tty/afd0dd76c8d59e416fec286d040e83826448034f3e0fe636494e348f908ff851
-	deleted:    cowrie/log/tty/cafcbe0442842297a38440acefe8c0e969db65cd5f2f8fff63bdec903e0dfeb5
-	deleted:    cowrie/log/tty/cc1eb03e9b5926d8076e25826664a04400de854bf5cc660fa35eb86cbdf7dc0f
-	deleted:    cowrie/log/tty/ea82fe82924bbdcd34f9642d3e79470eefa35f2308a6d85ad9cadf20051f1b2d
-	deleted:    cowrie/log/tty/ee06a44240faa0ccf9943f5d74aa0fba60a05de5a5ac4d00adee1542d096644a
-	deleted:    cowrie/log/tty/f904275333aeac48d7df6cf53fe5fb9212c7d132a7d37253d2ab9321ba2690d8
-	deleted:    cowrie/log/tty/ff7ddddc29606770ad0f26abad0835532319f4b9e70abbe12a8e450380b61a2c
-	modified:   cowrie/log/ttylogs.tgz
-	modified:   cowrie/log/ttylogs.tgz.1
-	modified:   cowrie/log/ttylogs.tgz.2
-	modified:   cowrie/log/ttylogs.tgz.3
-	modified:   cowrie/log/ttylogs.tgz.4
 	modified:   ddospot/bl/blacklist-chargen-daily.txt
 	modified:   ddospot/bl/blacklist-chargen-full.txt
 	modified:   ddospot/bl/blacklist-chargen-weekly.txt
 	modified:   ddospot/bl/blacklist-dns-daily.txt
 	modified:   ddospot/bl/blacklist-dns-full.txt
 	modified:   ddospot/bl/blacklist-dns-weekly.txt
+	modified:   ddospot/bl/blacklist-generic-daily.txt
+	modified:   ddospot/bl/blacklist-generic-full.txt
+	modified:   ddospot/bl/blacklist-generic-weekly.txt
+	modified:   ddospot/bl/blacklist-ntp-daily.txt
+	modified:   ddospot/bl/blacklist-ntp-full.txt
+	modified:   ddospot/bl/blacklist-ntp-weekly.txt
+	modified:   ddospot/bl/blacklist-ssdp-daily.txt
+	modified:   ddospot/bl/blacklist-ssdp-full.txt
+	modified:   ddospot/bl/blacklist-ssdp-weekly.txt
 	modified:   ddospot/log/chargenpot.log
-	modified:   ddospot/log/chargenpot.log.1.gz
-	modified:   ddospot/log/chargenpot.log.2.gz
-	modified:   ddospot/log/chargenpot.log.3.gz
-	modified:   ddospot/log/chargenpot.log.4.gz
-	modified:   ddospot/log/chargenpot.log.5.gz
-	modified:   ddospot/log/chargenpot.log.6.gz
 	modified:   ddospot/log/dnspot.log
-	modified:   ddospot/log/dnspot.log.1.gz
-	modified:   ddospot/log/dnspot.log.2.gz
-	modified:   ddospot/log/dnspot.log.3.gz
-	modified:   ddospot/log/dnspot.log.4.gz
-	modified:   ddospot/log/dnspot.log.5.gz
-	modified:   ddospot/log/dnspot.log.6.gz
 	modified:   ddospot/log/genericpot.log
-	modified:   ddospot/log/genericpot.log.1.gz
-	modified:   ddospot/log/genericpot.log.2.gz
-	modified:   ddospot/log/genericpot.log.3.gz
-	modified:   ddospot/log/genericpot.log.4.gz
-	modified:   ddospot/log/genericpot.log.5.gz
-	modified:   ddospot/log/genericpot.log.6.gz
 	modified:   ddospot/log/ntpot.log
-	modified:   ddospot/log/ntpot.log.1.gz
-	modified:   ddospot/log/ntpot.log.2.gz
-	modified:   ddospot/log/ntpot.log.3.gz
-	modified:   ddospot/log/ntpot.log.4.gz
-	modified:   ddospot/log/ntpot.log.5.gz
-	modified:   ddospot/log/ntpot.log.6.gz
 	modified:   ddospot/log/ssdpot.log
-	modified:   ddospot/log/ssdpot.log.1.gz
-	modified:   ddospot/log/ssdpot.log.2.gz
-	modified:   ddospot/log/ssdpot.log.3.gz
-	modified:   ddospot/log/ssdpot.log.4.gz
-	modified:   ddospot/log/ssdpot.log.5.gz
-	modified:   ddospot/log/ssdpot.log.6.gz
-	modified:   dionaea/bistreams.tgz
-	modified:   dionaea/bistreams.tgz.1
-	modified:   dionaea/bistreams.tgz.2
-	modified:   dionaea/bistreams.tgz.3
-	modified:   dionaea/bistreams.tgz.4
-	modified:   dionaea/dionaea-errors.log
-	modified:   dionaea/dionaea-errors.log.1.gz
-	modified:   dionaea/dionaea-errors.log.2.gz
-	modified:   dionaea/dionaea-errors.log.3.gz
-	modified:   dionaea/dionaea-errors.log.4.gz
-	modified:   dionaea/dionaea-errors.log.5.gz
-	modified:   dionaea/dionaea-errors.log.6.gz
 	modified:   dionaea/log/dionaea.sqlite
-	modified:   dionaea/log/dionaea.sqlite.1.gz
-	modified:   dionaea/log/dionaea.sqlite.2.gz
-	modified:   dionaea/log/dionaea.sqlite.3.gz
-	modified:   dionaea/log/dionaea.sqlite.4.gz
-	modified:   dionaea/log/dionaea.sqlite.5.gz
-	modified:   dionaea/log/dionaea.sqlite.6.gz
 	modified:   fatt/log/fatt.log
-	modified:   fatt/log/fatt.log.1.gz
-	modified:   fatt/log/fatt.log.2.gz
-	modified:   fatt/log/fatt.log.3.gz
-	modified:   fatt/log/fatt.log.4.gz
-	modified:   fatt/log/fatt.log.5.gz
-	modified:   fatt/log/fatt.log.6.gz
-	modified:   heralding/log/auth.csv.1.gz
-	modified:   heralding/log/auth.csv.2.gz
-	modified:   heralding/log/auth.csv.3.gz
-	modified:   heralding/log/auth.csv.4.gz
-	modified:   heralding/log/auth.csv.5.gz
-	modified:   heralding/log/auth.csv.6.gz
+	modified:   git_backup.log
 	modified:   heralding/log/heralding.log
-	modified:   heralding/log/heralding.log.1.gz
-	modified:   heralding/log/heralding.log.2.gz
-	modified:   heralding/log/heralding.log.3.gz
-	modified:   heralding/log/heralding.log.4.gz
-	modified:   heralding/log/heralding.log.5.gz
-	modified:   heralding/log/heralding.log.6.gz
-	modified:   heralding/log/session.csv.1.gz
-	modified:   heralding/log/session.csv.2.gz
-	modified:   heralding/log/session.csv.3.gz
-	modified:   heralding/log/session.csv.4.gz
-	modified:   heralding/log/session.csv.5.gz
-	modified:   heralding/log/session.csv.6.gz
-	modified:   honeytrap/attacks.tgz
-	modified:   honeytrap/attacks.tgz.1
-	modified:   honeytrap/attacks.tgz.2
-	modified:   honeytrap/attacks.tgz.3
-	modified:   honeytrap/attacks.tgz.4
-	modified:   honeytrap/attacks.tgz.5
-	deleted:    honeytrap/attacks/from_port_10045-tcp_8_2022-06-01_md5_6641ffc5218759ae95edc302999c3f33
-	deleted:    honeytrap/attacks/from_port_1204-tcp_29_2022-06-01_md5_8f0f65ac774fab2a97cdaeaa1e0db465
-	deleted:    honeytrap/attacks/from_port_20000-tcp_55_2022-06-01_md5_32dceb058d6d439d82f1acb13a83a265
-	deleted:    honeytrap/attacks/from_port_20000-tcp_61_2022-06-01_md5_7cbd36d700d617462fc4d42f4c2d053d
-	deleted:    honeytrap/attacks/from_port_20000-tcp_66_2022-06-01_md5_3e2cb36ac4aa59b1f3e4674bfcd3b578
-	deleted:    honeytrap/attacks/from_port_5223-tcp_59_2022-06-01_md5_f71cd578dfa8b37ae95fedbf515ce5a2
-	deleted:    honeytrap/attacks/from_port_5223-tcp_68_2022-06-01_md5_8fbdd5b5c39f065803a8f950c40479a2
-	deleted:    honeytrap/attacks/from_port_7005-tcp_82_2022-06-01_md5_9050d8747c1f122f1c13b199a2606380
-	deleted:    honeytrap/attacks/from_port_8161-tcp_89_2022-06-01_md5_c9f6332007a01877d13d26feee9aad36
-	deleted:    honeytrap/attacks/from_port_8444-tcp_41_2022-06-01_md5_c7eeb931f54fe3abcf5892596e281150
-	deleted:    honeytrap/attacks/from_port_9026-tcp_15_2022-06-01_md5_789af4392e00c6b5f52ea61240ef1484
-	deleted:    honeytrap/attacks/from_port_9105-tcp_28_2022-06-01_md5_8b232505b8d614a2224baa4e4f5dd254
 	modified:   honeytrap/log/attacker.log
-	modified:   honeytrap/log/attacker.log.1.gz
-	modified:   honeytrap/log/attacker.log.2.gz
-	modified:   honeytrap/log/attacker.log.3.gz
-	modified:   honeytrap/log/attacker.log.4.gz
-	modified:   honeytrap/log/attacker.log.5.gz
-	modified:   honeytrap/log/attacker.log.6.gz
 	modified:   honeytrap/log/attackers.json
-	modified:   honeytrap/log/attackers.json.1.gz
-	modified:   honeytrap/log/attackers.json.2.gz
-	modified:   honeytrap/log/attackers.json.3.gz
-	modified:   honeytrap/log/attackers.json.4.gz
-	modified:   honeytrap/log/attackers.json.5.gz
-	modified:   honeytrap/log/attackers.json.6.gz
 	modified:   honeytrap/log/honeytrap.log
-	modified:   honeytrap/log/honeytrap.log.1.gz
-	modified:   honeytrap/log/honeytrap.log.2.gz
-	modified:   honeytrap/log/honeytrap.log.3.gz
-	modified:   honeytrap/log/honeytrap.log.4.gz
-	modified:   honeytrap/log/honeytrap.log.5.gz
-	modified:   honeytrap/log/honeytrap.log.6.gz
 	modified:   ipphoney/log/ipphoney.json
 	modified:   p0f/log/p0f.json
-	modified:   p0f/log/p0f.json.1.gz
-	modified:   p0f/log/p0f.json.2.gz
-	modified:   p0f/log/p0f.json.3.gz
-	modified:   p0f/log/p0f.json.4.gz
-	modified:   p0f/log/p0f.json.5.gz
-	modified:   p0f/log/p0f.json.6.gz
 	modified:   sentrypeer/log/sentrypeer.db
 	modified:   sentrypeer/log/sentrypeer.json
-	modified:   sentrypeer/log/sentrypeer.json.1.gz
-	modified:   sentrypeer/log/sentrypeer.json.2.gz
-	modified:   sentrypeer/log/sentrypeer.json.3.gz
-	modified:   sentrypeer/log/sentrypeer.json.4.gz
-	modified:   sentrypeer/log/sentrypeer.json.5.gz
-	modified:   sentrypeer/log/sentrypeer.json.6.gz
-	deleted:    spiderfoot/spiderfoot.db-shm
-	deleted:    spiderfoot/spiderfoot.db-wal
+	modified:   spiderfoot/logs/spiderfoot.debug.log
+	modified:   spiderfoot/logs/spiderfoot.error.log
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	adbhoney/downloads.tgz.3
-	adbhoney/log/adbhoney.json.7.gz
-	adbhoney/log/adbhoney.log.7.gz
-	ciscoasa/log/ciscoasa.log.7.gz
-	citrixhoneypot/logs/server.log.7.gz
-	conpot/log/conpot_IEC104.log.7.gz
-	conpot/log/conpot_guardian_ast.log.7.gz
-	conpot/log/conpot_ipmi.log.7.gz
-	conpot/log/conpot_kamstrup_382.log.7.gz
-	cowrie/downloads.tgz.5
-	cowrie/log/cowrie.json.7.gz
-	cowrie/log/ttylogs.tgz.5
-	ddospot/log/chargenpot.log.7.gz
-	ddospot/log/dnspot.log.7.gz
-	ddospot/log/genericpot.log.7.gz
-	ddospot/log/ntpot.log.7.gz
-	ddospot/log/ssdpot.log.7.gz
-	dionaea/bistreams.tgz.5
-	dionaea/dionaea-errors.log.7.gz
-	dionaea/log/dionaea.sqlite.7.gz
-	fatt/log/fatt.log.7.gz
-	git_backup.log
-	heralding/log/auth.csv.7.gz
-	heralding/log/heralding.log.7.gz
-	heralding/log/session.csv.7.gz
-	honeytrap/attacks.tgz.6
-	honeytrap/log/attacker.log.7.gz
-	honeytrap/log/attackers.json.7.gz
-	honeytrap/log/honeytrap.log.7.gz
-	p0f/log/p0f.json.7.gz
-	sentrypeer/log/sentrypeer.json.7.gz
+	honeytrap/attacks/
+	spiderfoot/spiderfoot.db-shm
+	spiderfoot/spiderfoot.db-wal
 
 no changes added to commit (use "git add" and/or "git commit -a")

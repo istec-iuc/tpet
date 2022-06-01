@@ -1,0 +1,12 @@
+2022-06-01 14:22:39,508 Config file found!
+2022-06-01 14:22:39,514 Starting Conpot using template: /usr/lib/python3.9/site-packages/conpot/templates/guardian_ast
+2022-06-01 14:22:39,515 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2022-06-01 14:22:39,525 Serving tar:///usr/lib/python3.9/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2022-06-01 14:22:39,536 Opening path /tmp/conpot for persistent storage of files.
+2022-06-01 14:22:39,538 Initializing Virtual File System at /tmp/conpot/__conpot__kulck4_y. Source specified : tar:///usr/lib/python3.9/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2022-06-01 14:22:39,819 Fetched 34.125.121.193 as external ip.
+2022-06-01 14:22:39,822 Conpot GuardianAST initialized
+2022-06-01 14:22:39,823 Found and enabled guardian_ast protocol.
+2022-06-01 14:22:39,824 No proxy template found. Service will remain unconfigured/stopped.
+2022-06-01 14:22:39,824 GuardianAST server started on: ('0.0.0.0', 10001)

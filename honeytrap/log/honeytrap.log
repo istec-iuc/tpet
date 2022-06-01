@@ -1,2 +1,49 @@
 [2022-06-01 14:22:02] Error - Unable to forward signal to process group: No such file or directory.
 [2022-06-01 14:22:02] ---- honeytrap stopped ----
+
+honeytrap v1.1.0 Copyright (C) 2005-2015 Tillmann Werner <tillmann.werner@gmx.de>
+[2022-06-01 14:22:24] Initializing plugins.
+[2022-06-01 14:22:24] ---- Trapping attacks via NFQ. ----
+[2022-06-01 14:22:32] 79.124.62.86:59093 requesting tcp connection on 10.182.0.11:30031.
+[2022-06-01 14:22:35] 162.142.125.185:35784 requesting tcp connection on 10.182.0.11:16031.
+[2022-06-01 14:22:36] 45.148.10.81:56789 requesting tcp connection on 10.182.0.11:46665.
+[2022-06-01 14:22:37] 45.155.205.40:43225 requesting tcp connection on 10.182.0.11:32384.
+[2022-06-01 14:22:39] 79.124.62.86:59093 requesting tcp connection on 10.182.0.11:40049.
+[2022-06-01 14:22:46] 162.142.125.179:2099 requesting tcp connection on 10.182.0.11:25001.
+[2022-06-01 14:22:51] 162.142.125.178:51601 requesting tcp connection on 10.182.0.11:12563.
+[2022-06-01 14:22:55] 167.94.138.151:32551 requesting tcp connection on 10.182.0.11:10209.
+[2022-06-01 14:22:57] 192.241.222.157:52031 requesting tcp connection on 10.182.0.11:9999.
+[2022-06-01 14:23:07] 193.57.40.49:57639 requesting tcp connection on 10.182.0.11:7280.
+[2022-06-01 14:23:10] 79.124.62.78:59094 requesting tcp connection on 10.182.0.11:55130.
+[2022-06-01 14:23:31] 162.142.125.212:60550 requesting tcp connection on 10.182.0.11:6699.
+[2022-06-01 14:23:31]     6699/tcp  Handling tcp connection request from 162.142.125.212:60550 to 10.182.0.11:6699.
+[2022-06-01 14:23:32]     6699/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:23:32]     6699/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:23:32]  *  6699/tcp  No bytes received from 162.142.125.212:60550.
+[2022-06-01 14:23:32] 162.142.125.212:52276 requesting tcp connection on 10.182.0.11:6699.
+[2022-06-01 14:23:32]     6699/tcp  Handling tcp connection request from 162.142.125.212:52276 to 10.182.0.11:6699.
+[2022-06-01 14:23:32]     6699/tcp* 243 bytes read.
+[2022-06-01 14:23:33]     6699/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:23:33]     6699/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:23:33]  *  6699/tcp  243 bytes attack string from 162.142.125.212:52276.
+[2022-06-01 14:23:33] 162.142.125.212:33226 requesting tcp connection on 10.182.0.11:6699.
+[2022-06-01 14:23:33]     6699/tcp  Handling tcp connection request from 162.142.125.212:33226 to 10.182.0.11:6699.
+[2022-06-01 14:23:34]     6699/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:23:34]     6699/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:23:34]  *  6699/tcp  No bytes received from 162.142.125.212:33226.
+[2022-06-01 14:23:34] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:6699.
+[2022-06-01 14:23:43] 162.142.125.221:41816 requesting tcp connection on 10.182.0.11:12489.
+[2022-06-01 14:23:43]    12489/tcp  Handling tcp connection request from 162.142.125.221:41816 to 10.182.0.11:12489.
+[2022-06-01 14:23:44]    12489/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:23:44]    12489/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:23:44]  * 12489/tcp  No bytes received from 162.142.125.221:41816.
+[2022-06-01 14:23:44] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:12489.
+[2022-06-01 14:23:48] 162.142.125.187:13455 requesting tcp connection on 10.182.0.11:12136.
+[2022-06-01 14:23:49] 162.142.125.213:41944 requesting tcp connection on 10.182.0.11:12413.
+[2022-06-01 14:23:49]    12413/tcp  Handling tcp connection request from 162.142.125.213:41944 to 10.182.0.11:12413.
+[2022-06-01 14:23:50]    12413/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:23:50]    12413/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:23:50]  * 12413/tcp  No bytes received from 162.142.125.213:41944.
+[2022-06-01 14:23:50] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:12413.
+[2022-06-01 14:23:56] 183.136.225.9:7264 requesting tcp connection on 10.182.0.11:2055.
+[2022-06-01 14:23:56] 183.136.225.9:43627 requesting tcp connection on 10.182.0.11:2055.

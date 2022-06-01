@@ -1,6 +1,6 @@
 # ntp blacklist
 # List of all scanners/attackers
-# Generated: 2022-06-01 14:12:56.348764
+# Generated: 2022-06-01 14:22:40.619824
 1.255.180.4
 2.7.42.39
 2.106.155.79

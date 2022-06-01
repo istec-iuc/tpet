@@ -1,2 +1,2 @@
 # dns blacklist
-# Daily list of scanners/attackers for period 2022-05-31 14:22:01.379243 - 2022-06-01 14:22:01.379243
+# Daily list of scanners/attackers for period 2022-05-31 14:22:36.707273 - 2022-06-01 14:22:36.707273

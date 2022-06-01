@@ -1,1 +1,3 @@
 2022-06-01 14:22:03,532 - 139982898375480 - ADBHoneypot - INFO - Exiting...
+2022-06-01 14:22:31,074 - 140660229237560 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2022-06-01 14:22:31,074 - 140660229237560 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.

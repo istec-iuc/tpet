@@ -1,0 +1,15 @@
+2022-06-01 14:22:42,041 Config file found!
+2022-06-01 14:22:42,047 Starting Conpot using template: /usr/lib/python3.9/site-packages/conpot/templates/kamstrup_382
+2022-06-01 14:22:42,048 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2022-06-01 14:22:42,088 Serving tar:///usr/lib/python3.9/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2022-06-01 14:22:42,096 Opening path /tmp/conpot for persistent storage of files.
+2022-06-01 14:22:42,098 Initializing Virtual File System at /tmp/conpot/__conpot__zxkgnc_6. Source specified : tar:///usr/lib/python3.9/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2022-06-01 14:22:42,251 Fetched 34.125.121.193 as external ip.
+2022-06-01 14:22:42,254 Kamstrup management protocol server initialized.
+2022-06-01 14:22:42,255 Found and enabled kamstrup_management protocol.
+2022-06-01 14:22:42,278 Kamstrup protocol server initialized.
+2022-06-01 14:22:42,278 Found and enabled kamstrup_meter protocol.
+2022-06-01 14:22:42,279 No proxy template found. Service will remain unconfigured/stopped.
+2022-06-01 14:22:42,279 Kamstrup management protocol server started on: ('0.0.0.0', 50100)
+2022-06-01 14:22:42,280 Kamstrup protocol server started on: ('0.0.0.0', 1025)

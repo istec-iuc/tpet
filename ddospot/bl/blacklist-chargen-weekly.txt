@@ -1,5 +1,5 @@
 # chargen blacklist
-# Weekly list of scanners/attackers for period 2022-05-25 14:22:00.603065 - 2022-06-01 14:22:00.603065
+# Weekly list of scanners/attackers for period 2022-05-25 14:22:36.232645 - 2022-06-01 14:22:36.232645
 45.79.37.239
 45.148.10.81
 45.148.10.157

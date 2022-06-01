@@ -1,0 +1,15 @@
+2022-06-01 14:22:41,610 Config file found!
+2022-06-01 14:22:41,613 Starting Conpot using template: /usr/lib/python3.9/site-packages/conpot/templates/IEC104
+2022-06-01 14:22:41,613 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2022-06-01 14:22:41,741 Serving tar:///usr/lib/python3.9/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2022-06-01 14:22:41,741 Opening path /tmp/conpot for persistent storage of files.
+2022-06-01 14:22:41,742 Initializing Virtual File System at /tmp/conpot/__conpot__7tds8tiy. Source specified : tar:///usr/lib/python3.9/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2022-06-01 14:22:41,922 Fetched 34.125.121.193 as external ip.
+2022-06-01 14:22:41,934 IEC 104 Server up
+2022-06-01 14:22:41,939 Found and enabled IEC104 protocol.
+2022-06-01 14:22:41,946 Found and enabled snmp protocol.
+2022-06-01 14:22:41,950 No proxy template found. Service will remain unconfigured/stopped.
+2022-06-01 14:22:41,951 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2022-06-01 14:22:43,250 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
+2022-06-01 14:22:46,310 SNMP server started on: ('0.0.0.0', 161)
