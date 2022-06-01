@@ -98,3 +98,51 @@ honeytrap v1.1.0 Copyright (C) 2005-2015 Tillmann Werner <tillmann.werner@gmx.de
 [2022-06-01 14:24:51] -> 12563/tcp  No incoming connection for 120 seconds - server terminated.
 [2022-06-01 14:24:55] -> 10209/tcp  No incoming connection for 120 seconds - server terminated.
 [2022-06-01 14:24:57] ->  9999/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:25:06] 162.142.125.184:60682 requesting tcp connection on 10.182.0.11:2052.
+[2022-06-01 14:25:07] ->  7280/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:25:11] -> 55130/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:25:20] 45.155.205.44:45157 requesting tcp connection on 10.182.0.11:5817.
+[2022-06-01 14:25:22] 162.142.125.190:26003 requesting tcp connection on 10.182.0.11:8085.
+[2022-06-01 14:25:27] 162.142.125.186:13021 requesting tcp connection on 10.182.0.11:3119.
+[2022-06-01 14:25:30] 45.93.16.71:51111 requesting tcp connection on 10.182.0.11:50802.
+[2022-06-01 14:25:34] ->  6699/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:25:39] 162.142.125.136:28505 requesting tcp connection on 10.182.0.11:2087.
+[2022-06-01 14:25:44] -> 12489/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:25:48] -> 12136/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:25:50] -> 12413/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:25:51] 162.142.125.210:44910 requesting tcp connection on 10.182.0.11:3116.
+[2022-06-01 14:25:51]     3116/tcp  Handling tcp connection request from 162.142.125.210:44910 to 10.182.0.11:3116.
+[2022-06-01 14:25:51] 183.136.225.42:28204 requesting tcp connection on 10.182.0.11:8333.
+[2022-06-01 14:25:52]     3116/tcp  Could not read data: No such file or directory.
+[2022-06-01 14:25:52]  *  3116/tcp  No bytes received from 162.142.125.210:44910.
+[2022-06-01 14:25:52] 162.142.125.210:34846 requesting tcp connection on 10.182.0.11:3116.
+[2022-06-01 14:25:52]     3116/tcp  Handling tcp connection request from 162.142.125.210:34846 to 10.182.0.11:3116.
+[2022-06-01 14:25:52]     3116/tcp* 243 bytes read.
+[2022-06-01 14:25:53]     3116/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:25:53]     3116/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:25:53]  *  3116/tcp  243 bytes attack string from 162.142.125.210:34846.
+[2022-06-01 14:25:53] 162.142.125.210:51762 requesting tcp connection on 10.182.0.11:3116.
+[2022-06-01 14:25:53]     3116/tcp  Handling tcp connection request from 162.142.125.210:51762 to 10.182.0.11:3116.
+[2022-06-01 14:25:54]     3116/tcp* 45 bytes read.
+[2022-06-01 14:25:55]     3116/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:25:55]     3116/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:25:55]  *  3116/tcp  45 bytes attack string from 162.142.125.210:51762.
+[2022-06-01 14:25:55] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:3116.
+[2022-06-01 14:25:56] ->  2055/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:25:59] 183.136.225.42:53055 requesting tcp connection on 10.182.0.11:8333.
+[2022-06-01 14:25:59]     8333/tcp  Handling tcp connection request from 183.136.225.42:53055 to 10.182.0.11:8333.
+[2022-06-01 14:25:59]     8333/tcp* 109 bytes read.
+[2022-06-01 14:26:00]     8333/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:26:00]     8333/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:26:00]  *  8333/tcp  109 bytes attack string from 183.136.225.42:53055.
+[2022-06-01 14:26:00] deUnicode - Attack string seems to contain unicode encoded data, decoding it.
+[2022-06-01 14:26:00] deUnicode - Processing decoded attack.
+[2022-06-01 14:26:00] deUnicode - Attack string seems to contain unicode encoded data, decoding it.
+[2022-06-01 14:26:00] deUnicode - Processing decoded attack.
+[2022-06-01 14:26:00] deUnicode - Attack string seems to contain unicode encoded data, decoding it.
+[2022-06-01 14:26:00] deUnicode - Processing decoded attack.
+[2022-06-01 14:26:00] deUnicode - Attack string seems to contain unicode encoded data, decoding it.
+[2022-06-01 14:26:00] deUnicode - Processing decoded attack.
+[2022-06-01 14:26:00] deUnicode - Attack string seems to contain unicode encoded data, decoding it.
+[2022-06-01 14:26:00] deUnicode - Processing decoded attack.
+[2022-06-01 14:26:01] 45.35.249.85:58173 requesting tcp connection on 10.182.0.11:12.

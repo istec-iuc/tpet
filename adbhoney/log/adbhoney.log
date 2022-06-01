@@ -1,3 +1,9 @@
 2022-06-01 14:22:03,532 - 139982898375480 - ADBHoneypot - INFO - Exiting...
 2022-06-01 14:22:31,074 - 140660229237560 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
 2022-06-01 14:22:31,074 - 140660229237560 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.
+2022-06-01 14:25:39,247 - 140660229237560 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2022-06-01 14:25:39,256 - 140660229237560 - ADBHoneypot - INFO - 186.229.141.215 connection start (07733359e6c2)
+2022-06-01 14:25:39,256 - 140660229237560 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '186.229.141.215', 'src_port': 43955, 'dest_ip': '172.18.0.2', 'dest_port': '5555', 'timestamp': '2022-06-01T14:25:39.256367Z', 'unixtime': 1654093539, 'session': '07733359e6c2', 'sensor': 'honeypot01'}
+2022-06-01 14:25:40,424 - 140660229237560 - ADBHoneypot - INFO - data is none?: None
+2022-06-01 14:25:40,425 - 140660229237560 - ADBHoneypot - INFO - 1.1774611473083496	186.229.141.215	connection closed
+2022-06-01 14:25:40,425 - 140660229237560 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '186.229.141.215', 'duration': '1.18', 'timestamp': '2022-06-01T14:25:40.424525Z', 'unixtime': 1654093540, 'session': '07733359e6c2', 'sensor': 'honeypot01'}
