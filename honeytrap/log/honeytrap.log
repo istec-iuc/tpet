@@ -1625,3 +1625,32 @@ honeytrap v1.1.0 Copyright (C) 2005-2015 Tillmann Werner <tillmann.werner@gmx.de
 [2022-06-01 14:02:56] 45.93.16.71:51111 requesting tcp connection on 10.182.0.11:5038.
 [2022-06-01 14:02:58] -> 58569/tcp  No incoming connection for 120 seconds - server terminated.
 [2022-06-01 14:02:58] 107.189.11.67:57068 requesting tcp connection on 10.182.0.11:8081.
+[2022-06-01 14:03:04] 167.94.138.46:47144 requesting tcp connection on 10.182.0.11:8139.
+[2022-06-01 14:03:04]     8139/tcp  Handling tcp connection request from 167.94.138.46:47144 to 10.182.0.11:8139.
+[2022-06-01 14:03:05] 167.94.138.46:37010 requesting tcp connection on 10.182.0.11:8139.
+[2022-06-01 14:03:05]     8139/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:03:05]     8139/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:03:05]  *  8139/tcp  No bytes received from 167.94.138.46:47144.
+[2022-06-01 14:03:06]     8139/tcp  Handling tcp connection request from 167.94.138.46:37010 to 10.182.0.11:8139.
+[2022-06-01 14:03:06]     8139/tcp* 243 bytes read.
+[2022-06-01 14:03:07]     8139/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:03:07]     8139/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:03:07]  *  8139/tcp  243 bytes attack string from 167.94.138.46:37010.
+[2022-06-01 14:03:07] 167.94.138.46:51980 requesting tcp connection on 10.182.0.11:8139.
+[2022-06-01 14:03:07]     8139/tcp  Handling tcp connection request from 167.94.138.46:51980 to 10.182.0.11:8139.
+[2022-06-01 14:03:08]     8139/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:03:08]     8139/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:03:08]  *  8139/tcp  No bytes received from 167.94.138.46:51980.
+[2022-06-01 14:03:08] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:8139.
+[2022-06-01 14:03:12] ->  8122/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:03:26] -> 13389/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:03:28] -> 22516/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:03:34] -> 18007/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:03:34] ->  3528/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:03:40] -> 25562/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:03:45] -> 21310/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:03:49] 89.248.165.23:43426 requesting tcp connection on 10.182.0.11:33502.
+[2022-06-01 14:03:53] 78.128.113.250:57584 requesting tcp connection on 10.182.0.11:8516.
+[2022-06-01 14:03:55] 89.248.165.76:57382 requesting tcp connection on 10.182.0.11:1324.
+[2022-06-01 14:03:56] ->  1557/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:04:01] ->  3198/tcp  No incoming connection for 120 seconds - server terminated.
