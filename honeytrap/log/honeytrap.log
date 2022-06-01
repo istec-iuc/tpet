@@ -159,3 +159,50 @@ honeytrap v1.1.0 Copyright (C) 2005-2015 Tillmann Werner <tillmann.werner@gmx.de
 [2022-06-01 14:16:47]     5223/tcp  Error - Sending response failed: No such file or directory.
 [2022-06-01 14:16:47]  *  5223/tcp  No bytes received from 167.94.138.45:47662.
 [2022-06-01 14:16:47] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:5223.
+[2022-06-01 14:17:09] 162.142.125.219:44066 requesting tcp connection on 10.182.0.11:12337.
+[2022-06-01 14:17:09]    12337/tcp  Handling tcp connection request from 162.142.125.219:44066 to 10.182.0.11:12337.
+[2022-06-01 14:17:09] 162.142.125.9:47170 requesting tcp connection on 10.182.0.11:9038.
+[2022-06-01 14:17:09]     9038/tcp  Handling tcp connection request from 162.142.125.9:47170 to 10.182.0.11:9038.
+[2022-06-01 14:17:10]    12337/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:17:10]    12337/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:17:10]  * 12337/tcp  No bytes received from 162.142.125.219:44066.
+[2022-06-01 14:17:10] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:12337.
+[2022-06-01 14:17:10]     9038/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:17:10]     9038/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:17:10]  *  9038/tcp  No bytes received from 162.142.125.9:47170.
+[2022-06-01 14:17:10] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:9038.
+[2022-06-01 14:17:39] 45.61.185.106:33800 requesting tcp connection on 10.182.0.11:8080.
+[2022-06-01 14:17:52] 162.142.125.211:46946 requesting tcp connection on 10.182.0.11:7005.
+[2022-06-01 14:17:52]     7005/tcp  Handling tcp connection request from 162.142.125.211:46946 to 10.182.0.11:7005.
+[2022-06-01 14:17:53]     7005/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:17:53]     7005/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:17:53]  *  7005/tcp  No bytes received from 162.142.125.211:46946.
+[2022-06-01 14:17:53] 162.142.125.211:42714 requesting tcp connection on 10.182.0.11:7005.
+[2022-06-01 14:17:53]     7005/tcp  Handling tcp connection request from 162.142.125.211:42714 to 10.182.0.11:7005.
+[2022-06-01 14:17:53]     7005/tcp* 243 bytes read.
+[2022-06-01 14:17:54]     7005/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:17:54]     7005/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:17:54]  *  7005/tcp  243 bytes attack string from 162.142.125.211:42714.
+[2022-06-01 14:17:54] 162.142.125.211:44502 requesting tcp connection on 10.182.0.11:7005.
+[2022-06-01 14:17:54]     7005/tcp  Handling tcp connection request from 162.142.125.211:44502 to 10.182.0.11:7005.
+[2022-06-01 14:17:55]     7005/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:17:55]     7005/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:17:55]  *  7005/tcp  No bytes received from 162.142.125.211:44502.
+[2022-06-01 14:17:55] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:7005.
+[2022-06-01 14:17:58] 162.142.125.213:38862 requesting tcp connection on 10.182.0.11:8161.
+[2022-06-01 14:17:58]     8161/tcp  Handling tcp connection request from 162.142.125.213:38862 to 10.182.0.11:8161.
+[2022-06-01 14:17:59]     8161/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:17:59]     8161/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:17:59]  *  8161/tcp  No bytes received from 162.142.125.213:38862.
+[2022-06-01 14:17:59] 162.142.125.213:43020 requesting tcp connection on 10.182.0.11:8161.
+[2022-06-01 14:17:59]     8161/tcp  Handling tcp connection request from 162.142.125.213:43020 to 10.182.0.11:8161.
+[2022-06-01 14:17:59]     8161/tcp* 243 bytes read.
+[2022-06-01 14:18:00]     8161/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:18:00]     8161/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:18:00]  *  8161/tcp  243 bytes attack string from 162.142.125.213:43020.
+[2022-06-01 14:18:00] 162.142.125.213:56564 requesting tcp connection on 10.182.0.11:8161.
+[2022-06-01 14:18:00]     8161/tcp  Handling tcp connection request from 162.142.125.213:56564 to 10.182.0.11:8161.
+[2022-06-01 14:18:01]     8161/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:18:01]     8161/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:18:01]  *  8161/tcp  No bytes received from 162.142.125.213:56564.
+[2022-06-01 14:18:01] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:8161.
