@@ -209,3 +209,56 @@ honeytrap v1.1.0 Copyright (C) 2005-2015 Tillmann Werner <tillmann.werner@gmx.de
 [2022-06-01 14:26:55]    12345/tcp  Error - Sending response failed: No such file or directory.
 [2022-06-01 14:26:55]  * 12345/tcp  No bytes received from 162.142.125.7:36366.
 [2022-06-01 14:26:55] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:12345.
+[2022-06-01 14:27:06] ->  2052/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:27:21] ->  5817/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:27:21] 162.142.125.181:16873 requesting tcp connection on 10.182.0.11:51003.
+[2022-06-01 14:27:22] ->  8085/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:27:27] ->  3119/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:27:30] 162.142.125.221:44428 requesting tcp connection on 10.182.0.11:8075.
+[2022-06-01 14:27:30] -> 50802/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:27:31]     8075/tcp  Handling tcp connection request from 162.142.125.221:44428 to 10.182.0.11:8075.
+[2022-06-01 14:27:32]     8075/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:27:32]     8075/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:27:32]  *  8075/tcp  No bytes received from 162.142.125.221:44428.
+[2022-06-01 14:27:32] 162.142.125.221:37164 requesting tcp connection on 10.182.0.11:8075.
+[2022-06-01 14:27:32]     8075/tcp  Handling tcp connection request from 162.142.125.221:37164 to 10.182.0.11:8075.
+[2022-06-01 14:27:32]     8075/tcp* 243 bytes read.
+[2022-06-01 14:27:33]     8075/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:27:33]     8075/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:27:33]  *  8075/tcp  243 bytes attack string from 162.142.125.221:37164.
+[2022-06-01 14:27:33] 162.142.125.221:57120 requesting tcp connection on 10.182.0.11:8075.
+[2022-06-01 14:27:33]     8075/tcp  Handling tcp connection request from 162.142.125.221:57120 to 10.182.0.11:8075.
+[2022-06-01 14:27:34]     8075/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:27:34]     8075/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:27:34]  *  8075/tcp  No bytes received from 162.142.125.221:57120.
+[2022-06-01 14:27:34] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:8075.
+[2022-06-01 14:27:36] 162.142.125.8:58032 requesting tcp connection on 10.182.0.11:12514.
+[2022-06-01 14:27:36]    12514/tcp  Handling tcp connection request from 162.142.125.8:58032 to 10.182.0.11:12514.
+[2022-06-01 14:27:37]    12514/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:27:37]    12514/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:27:37]  * 12514/tcp  No bytes received from 162.142.125.8:58032.
+[2022-06-01 14:27:37] 162.142.125.8:54350 requesting tcp connection on 10.182.0.11:12514.
+[2022-06-01 14:27:37]    12514/tcp  Handling tcp connection request from 162.142.125.8:54350 to 10.182.0.11:12514.
+[2022-06-01 14:27:37]    12514/tcp* 243 bytes read.
+[2022-06-01 14:27:37] 66.23.226.195:53395 requesting tcp connection on 10.182.0.11:4200.
+[2022-06-01 14:27:38] 79.124.62.82:59092 requesting tcp connection on 10.182.0.11:65020.
+[2022-06-01 14:27:38]    12514/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:27:38]    12514/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:27:38]  * 12514/tcp  243 bytes attack string from 162.142.125.8:54350.
+[2022-06-01 14:27:38] 162.142.125.8:54836 requesting tcp connection on 10.182.0.11:12514.
+[2022-06-01 14:27:38]    12514/tcp  Handling tcp connection request from 162.142.125.8:54836 to 10.182.0.11:12514.
+[2022-06-01 14:27:39] ->  2087/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:27:39]    12514/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:27:39]    12514/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:27:39]  * 12514/tcp  No bytes received from 162.142.125.8:54836.
+[2022-06-01 14:27:40] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:12514.
+[2022-06-01 14:27:45] 162.142.125.212:46470 requesting tcp connection on 10.182.0.11:12274.
+[2022-06-01 14:27:45]    12274/tcp  Handling tcp connection request from 162.142.125.212:46470 to 10.182.0.11:12274.
+[2022-06-01 14:27:46]    12274/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:27:46]    12274/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:27:46]  * 12274/tcp  No bytes received from 162.142.125.212:46470.
+[2022-06-01 14:27:46] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:12274.
+[2022-06-01 14:27:47] 167.94.138.138:64504 requesting tcp connection on 10.182.0.11:6007.
+[2022-06-01 14:27:52] 89.248.165.76:57382 requesting tcp connection on 10.182.0.11:4433.
+[2022-06-01 14:27:55] ->  3116/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:28:00] ->  8333/tcp  No incoming connection for 120 seconds - server terminated.
