@@ -5,52 +5,23 @@ Your branch is up to date with 'origin/main'.
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   adbhoney/log/adbhoney.log
-	modified:   ciscoasa/log/ciscoasa.log
-	modified:   citrixhoneypot/logs/server.log
-	modified:   conpot/log/conpot_IEC104.log
-	modified:   conpot/log/conpot_guardian_ast.log
-	modified:   conpot/log/conpot_ipmi.log
-	modified:   conpot/log/conpot_kamstrup_382.log
 	modified:   cowrie/log/cowrie.json
-	modified:   ddospot/bl/blacklist-chargen-daily.txt
-	modified:   ddospot/bl/blacklist-chargen-full.txt
-	modified:   ddospot/bl/blacklist-chargen-weekly.txt
-	modified:   ddospot/bl/blacklist-dns-daily.txt
-	modified:   ddospot/bl/blacklist-dns-full.txt
-	modified:   ddospot/bl/blacklist-dns-weekly.txt
-	modified:   ddospot/bl/blacklist-generic-daily.txt
-	modified:   ddospot/bl/blacklist-generic-full.txt
-	modified:   ddospot/bl/blacklist-generic-weekly.txt
-	modified:   ddospot/bl/blacklist-ntp-daily.txt
-	modified:   ddospot/bl/blacklist-ntp-full.txt
-	modified:   ddospot/bl/blacklist-ntp-weekly.txt
-	modified:   ddospot/bl/blacklist-ssdp-daily.txt
-	modified:   ddospot/bl/blacklist-ssdp-full.txt
-	modified:   ddospot/bl/blacklist-ssdp-weekly.txt
-	modified:   ddospot/log/chargenpot.log
-	modified:   ddospot/log/dnspot.log
-	modified:   ddospot/log/genericpot.log
-	modified:   ddospot/log/ntpot.log
-	modified:   ddospot/log/ssdpot.log
-	modified:   dionaea/log/dionaea.sqlite
 	modified:   fatt/log/fatt.log
 	modified:   git_backup.log
-	modified:   heralding/log/heralding.log
+	modified:   heralding/log/log_session.json
+	modified:   heralding/log/session.csv
 	modified:   honeytrap/log/attacker.log
 	modified:   honeytrap/log/attackers.json
 	modified:   honeytrap/log/honeytrap.log
-	modified:   ipphoney/log/ipphoney.json
 	modified:   p0f/log/p0f.json
 	modified:   sentrypeer/log/sentrypeer.db
 	modified:   sentrypeer/log/sentrypeer.json
-	modified:   spiderfoot/logs/spiderfoot.debug.log
-	modified:   spiderfoot/logs/spiderfoot.error.log
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	honeytrap/attacks/
-	spiderfoot/spiderfoot.db-shm
-	spiderfoot/spiderfoot.db-wal
+	cowrie/downloads/
+	cowrie/log/tty/
+	honeytrap/attacks/from_port_16045-tcp_46_2022-06-01_md5_876af774b73ea74efe87ddef3c20f514
+	honeytrap/attacks/from_port_8446-tcp_48_2022-06-01_md5_183faddb3e2f8d947a3d80859fd40cd7
 
 no changes added to commit (use "git add" and/or "git commit -a")

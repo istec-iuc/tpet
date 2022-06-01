@@ -47,3 +47,54 @@ honeytrap v1.1.0 Copyright (C) 2005-2015 Tillmann Werner <tillmann.werner@gmx.de
 [2022-06-01 14:23:50] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:12413.
 [2022-06-01 14:23:56] 183.136.225.9:7264 requesting tcp connection on 10.182.0.11:2055.
 [2022-06-01 14:23:56] 183.136.225.9:43627 requesting tcp connection on 10.182.0.11:2055.
+[2022-06-01 14:24:25] 45.33.91.222:61000 requesting tcp connection on 10.182.0.11:994.
+[2022-06-01 14:24:26] 162.142.125.9:48686 requesting tcp connection on 10.182.0.11:8027.
+[2022-06-01 14:24:26]     8027/tcp  Handling tcp connection request from 162.142.125.9:48686 to 10.182.0.11:8027.
+[2022-06-01 14:24:27] 167.248.133.173:32994 requesting tcp connection on 10.182.0.11:16045.
+[2022-06-01 14:24:27] 167.248.133.120:56572 requesting tcp connection on 10.182.0.11:16045.
+[2022-06-01 14:24:27]    16045/tcp  Handling tcp connection request from 167.248.133.120:56572 to 10.182.0.11:16045.
+[2022-06-01 14:24:27] 162.142.125.219:60502 requesting tcp connection on 10.182.0.11:8446.
+[2022-06-01 14:24:27]     8446/tcp  Handling tcp connection request from 162.142.125.219:60502 to 10.182.0.11:8446.
+[2022-06-01 14:24:28]     8027/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:24:28]     8027/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:24:28]  *  8027/tcp  No bytes received from 162.142.125.9:48686.
+[2022-06-01 14:24:28] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:8027.
+[2022-06-01 14:24:28]    16045/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:24:28]    16045/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:24:28]  * 16045/tcp  No bytes received from 167.248.133.120:56572.
+[2022-06-01 14:24:28] 167.248.133.120:43502 requesting tcp connection on 10.182.0.11:16045.
+[2022-06-01 14:24:28]    16045/tcp  Handling tcp connection request from 167.248.133.120:43502 to 10.182.0.11:16045.
+[2022-06-01 14:24:28]    16045/tcp* 243 bytes read.
+[2022-06-01 14:24:28]     8446/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:24:28]     8446/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:24:28]  *  8446/tcp  No bytes received from 162.142.125.219:60502.
+[2022-06-01 14:24:28] 162.142.125.219:52992 requesting tcp connection on 10.182.0.11:8446.
+[2022-06-01 14:24:28]     8446/tcp  Handling tcp connection request from 162.142.125.219:52992 to 10.182.0.11:8446.
+[2022-06-01 14:24:28]     8446/tcp* 243 bytes read.
+[2022-06-01 14:24:29]    16045/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:24:29]    16045/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:24:29]  * 16045/tcp  243 bytes attack string from 167.248.133.120:43502.
+[2022-06-01 14:24:29] 167.248.133.120:52300 requesting tcp connection on 10.182.0.11:16045.
+[2022-06-01 14:24:29]    16045/tcp  Handling tcp connection request from 167.248.133.120:52300 to 10.182.0.11:16045.
+[2022-06-01 14:24:29]     8446/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:24:29]     8446/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:24:29]  *  8446/tcp  243 bytes attack string from 162.142.125.219:52992.
+[2022-06-01 14:24:29] 162.142.125.219:59194 requesting tcp connection on 10.182.0.11:8446.
+[2022-06-01 14:24:29]     8446/tcp  Handling tcp connection request from 162.142.125.219:59194 to 10.182.0.11:8446.
+[2022-06-01 14:24:30]    16045/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:24:30]    16045/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:24:30]  * 16045/tcp  No bytes received from 167.248.133.120:52300.
+[2022-06-01 14:24:30] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:16045.
+[2022-06-01 14:24:30]     8446/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:24:30]     8446/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:24:30]  *  8446/tcp  No bytes received from 162.142.125.219:59194.
+[2022-06-01 14:24:31] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:8446.
+[2022-06-01 14:24:32] -> 30031/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:24:35] -> 16031/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:24:36] -> 46665/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:24:38] -> 32384/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:24:39] -> 40049/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:24:46] -> 25001/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:24:51] -> 12563/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:24:55] -> 10209/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:24:57] ->  9999/tcp  No incoming connection for 120 seconds - server terminated.
