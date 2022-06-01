@@ -1,6 +1,6 @@
 # dns blacklist
 # List of all scanners/attackers
-# Generated: 2022-06-01 14:12:53.672206
+# Generated: 2022-06-01 14:22:01.379243
 8.210.3.122
 13.40.5.244
 14.1.112.177

@@ -1,3 +1,0 @@
-[01062022 14:12:11] dionaea /root/dionaea/src/dionaea.c:756-warning: Setgroups dropping groups failed
-[01062022 14:12:11] sip /opt/dionaea/lib/dionaea/python/dionaea/sip/__init__.py:78-warning: Starting cleanup loop
-[01062022 14:12:17] log /root/dionaea/src/signals.c:30-warning: sigint_cb loop 0x7fbce61c7720 w 0x559710a18780 revents 1024

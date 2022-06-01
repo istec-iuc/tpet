@@ -1,2 +1,0 @@
-{"eventid": "adbhoney.session.connect", "src_ip": "59.3.75.44", "src_port": 42376, "dest_ip": "172.18.0.2", "dest_port": "5555", "timestamp": "2022-06-01T14:15:22.929711Z", "unixtime": 1654092922, "session": "37d4040d3571", "sensor": "honeypot01"}
-{"eventid": "adbhoney.session.closed", "src_ip": "59.3.75.44", "duration": "1.15", "timestamp": "2022-06-01T14:15:24.068183Z", "unixtime": 1654092924, "session": "37d4040d3571", "sensor": "honeypot01"}
