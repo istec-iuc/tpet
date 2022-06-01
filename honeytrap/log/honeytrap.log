@@ -97,3 +97,12 @@ honeytrap v1.1.0 Copyright (C) 2005-2015 Tillmann Werner <tillmann.werner@gmx.de
 [2022-06-01 14:14:41] -> 10045/tcp  No incoming connection for 120 seconds - server terminated.
 [2022-06-01 14:14:41] 78.128.113.250:57584 requesting tcp connection on 10.182.0.11:5660.
 [2022-06-01 14:14:55] ->  9026/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:15:04] -> 42362/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:15:06] ->  9721/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:15:21] ->  3770/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:15:22] ->  9105/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:15:23] ->  1204/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:15:35] ->  8016/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:15:36] -> 12428/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:15:41] ->  8444/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:15:57] ->  4666/tcp  No incoming connection for 120 seconds - server terminated.
