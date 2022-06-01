@@ -206,3 +206,25 @@ honeytrap v1.1.0 Copyright (C) 2005-2015 Tillmann Werner <tillmann.werner@gmx.de
 [2022-06-01 14:18:01]     8161/tcp  Error - Sending response failed: No such file or directory.
 [2022-06-01 14:18:01]  *  8161/tcp  No bytes received from 162.142.125.213:56564.
 [2022-06-01 14:18:01] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:8161.
+[2022-06-01 14:18:11] 79.124.62.34:41131 requesting tcp connection on 10.182.0.11:18185.
+[2022-06-01 14:18:11] ->  5771/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:18:24] -> 18061/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:18:26] 45.135.232.5:47267 requesting tcp connection on 10.182.0.11:12723.
+[2022-06-01 14:18:29] 185.200.116.71:36648 requesting tcp connection on 10.182.0.11:3389.
+[2022-06-01 14:18:34] 185.191.34.200:45361 requesting tcp connection on 10.182.0.11:65245.
+[2022-06-01 14:18:35] 162.142.125.221:55894 requesting tcp connection on 10.182.0.11:12567.
+[2022-06-01 14:18:35]    12567/tcp  Handling tcp connection request from 162.142.125.221:55894 to 10.182.0.11:12567.
+[2022-06-01 14:18:36]    12567/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:18:36]    12567/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:18:36]  * 12567/tcp  No bytes received from 162.142.125.221:55894.
+[2022-06-01 14:18:36] 162.142.125.160:5189 requesting tcp connection on 10.182.0.11:12567.
+[2022-06-01 14:18:39] 162.142.125.185:52689 requesting tcp connection on 10.182.0.11:9214.
+[2022-06-01 14:18:44] 162.142.125.183:41430 requesting tcp connection on 10.182.0.11:11065.
+[2022-06-01 14:18:44] -> 12491/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:18:47] -> 20000/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:18:47] ->  5223/tcp  No incoming connection for 120 seconds - server terminated.
+[2022-06-01 14:18:58] 165.227.25.154:52023 requesting tcp connection on 10.182.0.11:38600.
+[2022-06-01 14:18:58]    38600/tcp  Handling tcp connection request from 165.227.25.154:52023 to 10.182.0.11:38600.
+[2022-06-01 14:18:59]    38600/tcp  No data for 1 second(s), sending '\n'.
+[2022-06-01 14:18:59]    38600/tcp  Error - Sending response failed: No such file or directory.
+[2022-06-01 14:18:59]  * 38600/tcp  No bytes received from 165.227.25.154:52023.
