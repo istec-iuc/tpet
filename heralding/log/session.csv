@@ -1,2 +1,1 @@
 timestamp,duration,session_id,source_ip,source_port,destination_ip,destination_port,protocol,num_auth_attempts
-2022-06-01 13:12:51.677229,0,4805d2ca-e046-4e36-8743-d962e67de95e,167.248.133.61,53400,34.125.121.193,993,imaps,0

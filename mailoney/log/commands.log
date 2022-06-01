@@ -1,2 +1,0 @@
-{"src_ip": "45.79.147.58", "timestamp": "2022-06-01T12:59:21.000000Z", "smtp_input": [], "src_port": 61000, "data": "EHLO masscan"}
-{"src_ip": "45.79.147.58", "timestamp": "2022-06-01T12:59:21.000000Z", "smtp_input": [], "src_port": 61000, "data": "STARTTLS"}
