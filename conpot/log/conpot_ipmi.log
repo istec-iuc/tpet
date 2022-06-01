@@ -1,0 +1,28 @@
+2022-06-01 12:57:16,578 Config file found!
+2022-06-01 12:57:16,608 Starting Conpot using template: /usr/lib/python3.9/site-packages/conpot/templates/ipmi
+2022-06-01 12:57:16,608 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2022-06-01 12:57:16,617 Serving tar:///usr/lib/python3.9/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2022-06-01 12:57:16,617 Opening path /tmp/conpot for persistent storage of files.
+2022-06-01 12:57:16,619 Initializing Virtual File System at /tmp/conpot/__conpot__nvu164h9. Source specified : tar:///usr/lib/python3.9/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2022-06-01 12:57:16,777 Fetched 34.125.121.193 as external ip.
+2022-06-01 12:57:16,782 IPMI BMC initialized.
+2022-06-01 12:57:16,782 Conpot IPMI initialized using /usr/lib/python3.9/site-packages/conpot/templates/ipmi/ipmi/ipmi.xml template
+2022-06-01 12:57:16,782 Found and enabled ipmi protocol.
+2022-06-01 12:57:16,783 No proxy template found. Service will remain unconfigured/stopped.
+2022-06-01 12:57:16,785 IPMI server started on: ('0.0.0.0', 623)
+2022-06-01 12:57:19,147 Stopping Conpot
+2022-06-01 12:57:20,797 Shutting down File System. Cleaning directories at /tmp/conpot/__conpot__nvu164h9
+2022-06-01 12:57:54,924 Config file found!
+2022-06-01 12:57:54,936 Starting Conpot using template: /usr/lib/python3.9/site-packages/conpot/templates/ipmi
+2022-06-01 12:57:54,937 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2022-06-01 12:57:54,939 Serving tar:///usr/lib/python3.9/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2022-06-01 12:57:54,944 Opening path /tmp/conpot for persistent storage of files.
+2022-06-01 12:57:54,945 Initializing Virtual File System at /tmp/conpot/__conpot__2l3m0d28. Source specified : tar:///usr/lib/python3.9/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2022-06-01 12:57:55,109 Fetched 34.125.121.193 as external ip.
+2022-06-01 12:57:55,113 IPMI BMC initialized.
+2022-06-01 12:57:55,113 Conpot IPMI initialized using /usr/lib/python3.9/site-packages/conpot/templates/ipmi/ipmi/ipmi.xml template
+2022-06-01 12:57:55,114 Found and enabled ipmi protocol.
+2022-06-01 12:57:55,116 No proxy template found. Service will remain unconfigured/stopped.
+2022-06-01 12:57:55,117 IPMI server started on: ('0.0.0.0', 623)

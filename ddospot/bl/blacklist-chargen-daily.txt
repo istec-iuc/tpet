@@ -1,0 +1,2 @@
+# chargen blacklist
+# Daily list of scanners/attackers for period 2022-05-31 12:57:50.329757 - 2022-06-01 12:57:50.329757

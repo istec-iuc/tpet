@@ -1,0 +1,1 @@
+{"timestamp": "2022-06-01 13:12:51.677229", "duration": 0, "session_id": "4805d2ca-e046-4e36-8743-d962e67de95e", "source_ip": "167.248.133.61", "source_port": 53400, "destination_ip": "34.125.121.193", "destination_port": 993, "protocol": "imaps", "num_auth_attempts": 0, "auth_attempts": [], "session_ended": true, "auxiliary_data": {}}

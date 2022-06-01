@@ -1,0 +1,44 @@
+2022-06-01 12:57:18,109 Config file found!
+2022-06-01 12:57:18,124 Starting Conpot using template: /usr/lib/python3.9/site-packages/conpot/templates/IEC104
+2022-06-01 12:57:18,124 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2022-06-01 12:57:18,305 Serving tar:///usr/lib/python3.9/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2022-06-01 12:57:18,316 Opening path /tmp/conpot for persistent storage of files.
+2022-06-01 12:57:18,318 Initializing Virtual File System at /tmp/conpot/__conpot__f3uluqxe. Source specified : tar:///usr/lib/python3.9/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2022-06-01 12:57:18,439 Fetched 34.125.121.193 as external ip.
+2022-06-01 12:57:18,460 IEC 104 Server up
+2022-06-01 12:57:18,460 Found and enabled IEC104 protocol.
+2022-06-01 12:57:18,483 Found and enabled snmp protocol.
+2022-06-01 12:57:18,484 No proxy template found. Service will remain unconfigured/stopped.
+2022-06-01 12:57:18,484 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2022-06-01 12:57:19,103 Stopping Conpot
+2022-06-01 12:57:19,103 Stopping because <ServiceGreenlet "SNMPServer" at 0x7f968091c260: <bound method SNMPServer.start of <conpot.protocols.snmp.snmp_server.SNMPServer object at 0x7f96808a9e80>>('0.0.0.0', 161)> died: 
+NoneType: None
+2022-06-01 12:57:19,104 Shutting down File System. Cleaning directories at /tmp/conpot/__conpot__f3uluqxe
+2022-06-01 12:57:46,814 Config file found!
+2022-06-01 12:57:46,816 Starting Conpot using template: /usr/lib/python3.9/site-packages/conpot/templates/IEC104
+2022-06-01 12:57:46,816 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2022-06-01 12:57:46,891 Serving tar:///usr/lib/python3.9/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2022-06-01 12:57:46,892 Opening path /tmp/conpot for persistent storage of files.
+2022-06-01 12:57:46,909 Initializing Virtual File System at /tmp/conpot/__conpot__01htl90k. Source specified : tar:///usr/lib/python3.9/site-packages/conpot/data.tar
+ Please wait while the system copies all specified files
+2022-06-01 12:57:47,112 Fetched 34.125.121.193 as external ip.
+2022-06-01 12:57:47,127 IEC 104 Server up
+2022-06-01 12:57:47,140 Found and enabled IEC104 protocol.
+2022-06-01 12:57:47,164 Found and enabled snmp protocol.
+2022-06-01 12:57:47,165 No proxy template found. Service will remain unconfigured/stopped.
+2022-06-01 12:57:47,165 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2022-06-01 12:57:50,456 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
+2022-06-01 12:57:56,770 SNMP server started on: ('0.0.0.0', 161)
+2022-06-01 13:02:12,427 SNMP Exception: This class is not converted to new architecture
+2022-06-01 13:02:12,526 New snmp session from 204.42.253.130 (4eba7e90-4619-40ae-b976-a4fda3baeb2e)
+2022-06-01 13:02:12,527 SNMPv1 GetNext request from ('204.42.253.130', 53926): 1.3.6.1 
+2022-06-01 13:02:12,527 SNMPv1 GetNext response to ('204.42.253.130', 53926): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2022-06-01 13:02:42,553 Session timed out: 4eba7e90-4619-40ae-b976-a4fda3baeb2e
+2022-06-01 13:23:22,307 SNMP Exception: This class is not converted to new architecture
+2022-06-01 13:23:22,309 SNMP Exception: This class is not converted to new architecture
+2022-06-01 13:34:35,090 New snmp session from 64.62.197.217 (4b7b9da6-eb6e-4a45-acff-c6cfc6a08c05)
+2022-06-01 13:34:35,090 SNMPv2 Get request from ('64.62.197.217', 45365): 1.3.6.1.2.1.1.1.0 
+2022-06-01 13:34:35,090 SNMPv2 Get response to ('64.62.197.217', 45365): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2022-06-01 13:35:05,112 Session timed out: 4b7b9da6-eb6e-4a45-acff-c6cfc6a08c05
+2022-06-01 13:38:02,360 SNMP Exception: This class is not converted to new architecture

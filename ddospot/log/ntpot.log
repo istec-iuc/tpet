@@ -1,0 +1,13 @@
+Full blacklist written: 496 scanners/attackers detected
+Weekly blacklist written: 496 scanners/attackers detected
+Daily blacklist written: 1 scanners/attackers detected
+Restored previous DB state - 1253 unique IPs loaded
+NTPot started at 0.0.0.0:123
+Full blacklist written: 496 scanners/attackers detected
+Weekly blacklist written: 496 scanners/attackers detected
+Daily blacklist written: 1 scanners/attackers detected
+Full blacklist written: 496 scanners/attackers detected
+Weekly blacklist written: 496 scanners/attackers detected
+Daily blacklist written: 1 scanners/attackers detected
+{"time": "2022-06-01 13:08:57.847123", "src_ip": "184.105.139.91", "src_port": 20856, "mode": "CONTROL", "req_size": 12, "resp_size": 12, "req_pkt": "FgIAAQAAAAAAAAAA"}
+{"time": "2022-06-01 13:15:35.491165", "src_ip": "209.141.43.163", "src_port": 35337, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}

@@ -1,0 +1,29 @@
+2022-06-01 12:57:18,297 (root) Initializing Heralding version 1.0.7
+2022-06-01 12:57:18,440 (heralding.honeypot) Using default wordlist file: "/usr/lib/python3.9/site-packages/heralding/wordlist.txt", if you want to customize values please copy this file to the current working directory
+2022-06-01 12:57:18,485 (heralding.reporting.file_logger) File logger: Using /var/log/heralding/auth.csv to log authentication attempts in CSV format.
+2022-06-01 12:57:18,486 (heralding.reporting.file_logger) File logger: Using /var/log/heralding/session.csv to log unified session data in CSV format.
+2022-06-01 12:57:18,486 (heralding.reporting.file_logger) File logger: Using /var/log/heralding/log_session.json to log complete session data in JSON format.
+2022-06-01 12:57:18,786 (heralding.honeypot) Found public ip: 34.125.121.193
+2022-06-01 12:57:18,787 (heralding.honeypot) Started smtp capability listening on port 25
+2022-06-01 12:57:54,476 (root) Initializing Heralding version 1.0.7
+2022-06-01 12:57:54,640 (heralding.honeypot) Using default wordlist file: "/usr/lib/python3.9/site-packages/heralding/wordlist.txt", if you want to customize values please copy this file to the current working directory
+2022-06-01 12:57:54,644 (heralding.reporting.file_logger) File logger: Using /var/log/heralding/auth.csv to log authentication attempts in CSV format.
+2022-06-01 12:57:54,644 (heralding.reporting.file_logger) File logger: Using /var/log/heralding/session.csv to log unified session data in CSV format.
+2022-06-01 12:57:54,645 (heralding.reporting.file_logger) File logger: Using /var/log/heralding/log_session.json to log complete session data in JSON format.
+2022-06-01 12:57:54,927 (heralding.honeypot) Found public ip: 34.125.121.193
+2022-06-01 12:57:54,928 (heralding.honeypot) Started smtp capability listening on port 25
+2022-06-01 12:57:56,800 (heralding.honeypot) Started smtps capability listening on port 465
+2022-06-01 12:57:56,800 (heralding.honeypot) Started Socks5 capability listening on port 1080
+2022-06-01 12:57:56,801 (heralding.honeypot) Started Vnc capability listening on port 5900
+2022-06-01 12:57:56,802 (heralding.honeypot) Started Imap capability listening on port 143
+2022-06-01 12:57:57,431 (heralding.honeypot) Started Imaps capability listening on port 993
+2022-06-01 12:57:57,432 (heralding.honeypot) Started Telnet capability listening on port 23
+2022-06-01 12:57:57,432 (heralding.honeypot) Started PostgreSQL capability listening on port 5432
+2022-06-01 12:57:57,433 (heralding.honeypot) Started Pop3 capability listening on port 110
+2022-06-01 12:57:58,773 (heralding.honeypot) Started Pop3S capability listening on port 995
+2022-06-01 12:57:58,774 (heralding.honeypot) Started MySQL capability listening on port 3306
+2022-06-01 12:57:59,554 (heralding.honeypot) Started RDP capability listening on port 3389
+2022-06-01 12:57:59,558 (heralding.honeypot) Started Http capability listening on port 80
+2022-06-01 12:58:00,309 (heralding.honeypot) Started https capability listening on port 443
+2022-06-01 12:58:00,310 (heralding.honeypot) Started ftp capability listening on port 21
+2022-06-01 12:58:00,784 (heralding.honeypot) Started SSH capability listening on port 22

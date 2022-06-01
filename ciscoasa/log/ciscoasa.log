@@ -1,0 +1,10 @@
+Stopping server.
+Starting server on port 5000/udp
+Using selector: EpollSelector
+Starting server on port 8443/tcp, use <Ctrl-C> to stop
+{'timestamp': '2022-06-01T13:08:26.942139', 'src_ip': '168.100.10.127', 'payload_printable': '"GET /Main_Login.asp HTTP/1.1" 404 -'}
+{'timestamp': '2022-06-01T13:08:29.945790', 'src_ip': '168.100.10.127', 'payload_printable': 'Request timed out: timeout('The read operation timed out')'}
+{'timestamp': '2022-06-01T13:08:30.964831', 'src_ip': '168.100.10.127', 'payload_printable': '"GET /Main_Login.asp HTTP/1.1" 404 -'}
+{'timestamp': '2022-06-01T13:08:33.968144', 'src_ip': '168.100.10.127', 'payload_printable': 'Request timed out: timeout('The read operation timed out')'}
+{'timestamp': '2022-06-01T13:08:34.904871', 'src_ip': '168.100.10.127', 'payload_printable': '"GET / HTTP/1.1" 200 -'}
+{'timestamp': '2022-06-01T13:08:37.908118', 'src_ip': '168.100.10.127', 'payload_printable': 'Request timed out: timeout('The read operation timed out')'}
