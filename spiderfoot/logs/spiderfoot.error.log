@@ -68,3 +68,10 @@ Please consider adding authentication to protect this instance!
 Refer to https://www.spiderfoot.net/documentation/#security.
 ********************************************************************
 
+2022-06-02 05:00:38,711 [WARNING] sf.py:550 : 
+********************************************************************
+Warning: passwd file contains no passwords. Authentication disabled.
+Please consider adding authentication to protect this instance!
+Refer to https://www.spiderfoot.net/documentation/#security.
+********************************************************************
+

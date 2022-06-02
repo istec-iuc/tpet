@@ -1,2 +1,6 @@
 # ssdp blacklist
-# Daily list of scanners/attackers for period 2022-05-31 14:33:27.728619 - 2022-06-01 14:33:27.728619
+# Daily list of scanners/attackers for period 2022-06-01 05:00:37.409127 - 2022-06-02 05:00:37.409127
+45.148.10.65
+45.154.96.251
+52.73.169.169
+185.246.128.26

@@ -1,6 +1,6 @@
 # chargen blacklist
 # List of all scanners/attackers
-# Generated: 2022-06-01 16:00:00.587628
+# Generated: 2022-06-02 05:00:32.585878
 45.79.37.239
 45.148.10.81
 45.148.10.157

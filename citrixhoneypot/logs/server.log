@@ -1,19 +1,11 @@
-{"asctime": "2022-06-01 14:33:17,866", "levelname": "INFO", "message": "Citrix CVE-2019-19781 Honeypot by MalwareTech"}
-{"asctime": "2022-06-01 16:10:29,374", "levelname": "INFO", "message": "(45.93.16.70:51038): GET Header: /configs/"}
-{"asctime": "2022-06-01 16:24:15,609", "levelname": "INFO", "message": "(192.241.213.10:42088): GET Header: /actuator/health"}
-{"asctime": "2022-06-01 19:15:15,764", "levelname": "INFO", "message": "(192.241.220.47:60298): GET Header: /"}
-{"asctime": "2022-06-01 20:05:36,003", "levelname": "INFO", "message": "(162.142.125.7:53106): GET Header: /"}
-{"asctime": "2022-06-01 20:05:37,047", "levelname": "INFO", "message": "(162.142.125.7:57674): GET Header: /"}
-{"asctime": "2022-06-01 21:21:34,041", "levelname": "INFO", "message": "(80.94.93.125:45479): GET Header: /a2billing/admin/Public/index.php"}
-{"asctime": "2022-06-01 21:35:14,284", "levelname": "INFO", "message": "(80.94.93.125:55070): GET Header: /recordings/"}
-{"asctime": "2022-06-01 21:50:42,583", "levelname": "INFO", "message": "(8.214.87.1:41498): GET Header: /"}
-{"asctime": "2022-06-01 21:54:25,260", "levelname": "INFO", "message": "(80.94.93.125:36595): GET Header: /admin/assets/css/bootstrap-rtl.css"}
-{"asctime": "2022-06-01 22:20:26,408", "levelname": "INFO", "message": "(71.6.135.131:44414): GET Header: /"}
-{"asctime": "2022-06-01 22:20:31,942", "levelname": "INFO", "message": "(71.6.135.131:50796): GET Header: /robots.txt"}
-{"asctime": "2022-06-01 22:20:31,988", "levelname": "INFO", "message": "(71.6.135.131:50828): GET Header: /sitemap.xml"}
-{"asctime": "2022-06-01 22:20:32,037", "levelname": "INFO", "message": "(71.6.135.131:50842): GET Header: /.well-known/security.txt"}
-{"asctime": "2022-06-01 22:20:35,532", "levelname": "INFO", "message": "(71.6.135.131:53600): GET Header: /favicon.ico"}
-{"asctime": "2022-06-01 22:20:36,954", "levelname": "INFO", "message": "(71.6.135.131:55848): GET Header: /vpns/"}
-{"asctime": "2022-06-01 23:18:10,930", "levelname": "INFO", "message": "(80.94.93.125:48299): GET Header: /admin//modules/"}
-{"asctime": "2022-06-01 23:59:18,618", "levelname": "INFO", "message": "(80.94.93.125:59711): GET Header: /admin/config.php?password[0]=ZIZO&username=admin"}
-{"asctime": "2022-06-01 23:59:18,964", "levelname": "INFO", "message": "(80.94.93.125:59713): GET Header: /admin/config.php?password[0]=ZIZO&username=admin"}
+{"asctime": "2022-06-02 05:00:24,695", "levelname": "INFO", "message": "Citrix CVE-2019-19781 Honeypot by MalwareTech"}
+{"asctime": "2022-06-02 06:06:55,096", "levelname": "INFO", "message": "(80.82.77.139:43814): GET Header: /"}
+{"asctime": "2022-06-02 06:07:09,327", "levelname": "INFO", "message": "(80.82.77.139:57596): GET Header: /robots.txt"}
+{"asctime": "2022-06-02 06:07:11,903", "levelname": "INFO", "message": "(80.82.77.139:58190): GET Header: /sitemap.xml"}
+{"asctime": "2022-06-02 06:07:12,594", "levelname": "INFO", "message": "(80.82.77.139:33450): GET Header: /.well-known/security.txt"}
+{"asctime": "2022-06-02 06:07:13,265", "levelname": "INFO", "message": "(80.82.77.139:34672): GET Header: /favicon.ico"}
+{"asctime": "2022-06-02 06:07:19,433", "levelname": "INFO", "message": "(80.82.77.139:42110): GET Header: /vpns/"}
+{"asctime": "2022-06-02 08:23:36,414", "levelname": "INFO", "message": "(154.89.5.77:31112): GET Header: /"}
+{"asctime": "2022-06-02 08:23:37,113", "levelname": "INFO", "message": "(154.89.5.77:31908): GET Header: /"}
+{"asctime": "2022-06-02 08:28:02,982", "levelname": "INFO", "message": "(80.94.93.125:48920): GET Header: /a2billing/admin/Public/index.php"}
+{"asctime": "2022-06-02 08:37:37,840", "levelname": "INFO", "message": "(80.94.93.125:58963): GET Header: /recordings/"}

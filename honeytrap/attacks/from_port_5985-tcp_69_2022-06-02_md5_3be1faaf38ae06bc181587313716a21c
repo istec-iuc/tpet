@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 34.125.121.193:5985
+User-Agent: python-requests/2.27.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+x-datadog-trace-id: 309886076846633645
+x-datadog-parent-id: 14035675472440165302
+x-datadog-sampling-priority: 0
+

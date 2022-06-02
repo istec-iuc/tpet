@@ -1,0 +1,7 @@
+GET /api/v1 HTTP/1.1
+Host: 34.125.121.193:6443
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+

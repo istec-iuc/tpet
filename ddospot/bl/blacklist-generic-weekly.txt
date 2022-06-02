@@ -1,2 +1,2 @@
 # generic blacklist
-# Weekly list of scanners/attackers for period 2022-05-25 14:33:26.517528 - 2022-06-01 14:33:26.517528
+# Weekly list of scanners/attackers for period 2022-05-26 05:00:35.371159 - 2022-06-02 05:00:35.371159
