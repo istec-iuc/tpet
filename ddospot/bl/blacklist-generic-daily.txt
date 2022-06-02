@@ -1,2 +1,2 @@
 # generic blacklist
-# Daily list of scanners/attackers for period 2022-06-01 05:00:35.371159 - 2022-06-02 05:00:35.371159
+# Daily list of scanners/attackers for period 2022-06-01 12:00:00.499434 - 2022-06-02 12:00:00.499434

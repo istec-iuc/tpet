@@ -2,3 +2,4 @@ Starting server on port 5000/udp
 Using selector: EpollSelector
 Starting server on port 8443/tcp, use <Ctrl-C> to stop
 {'timestamp': '2022-06-02T08:48:10.555861', 'src_ip': '107.189.11.67', 'payload_printable': '"GET /manager/html HTTP/1.1" 404 -'}
+{'timestamp': '2022-06-02T09:58:14.813070', 'src_ip': '192.64.113.244', 'payload_printable': '"GET /remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession HTTP/1.1" 404 -'}
