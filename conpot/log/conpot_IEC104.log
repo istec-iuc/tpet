@@ -1,15 +1,43 @@
-2022-06-01 14:22:41,610 Config file found!
-2022-06-01 14:22:41,613 Starting Conpot using template: /usr/lib/python3.9/site-packages/conpot/templates/IEC104
-2022-06-01 14:22:41,613 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
-2022-06-01 14:22:41,741 Serving tar:///usr/lib/python3.9/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
-2022-06-01 14:22:41,741 Opening path /tmp/conpot for persistent storage of files.
-2022-06-01 14:22:41,742 Initializing Virtual File System at /tmp/conpot/__conpot__7tds8tiy. Source specified : tar:///usr/lib/python3.9/site-packages/conpot/data.tar
+2022-06-01 14:33:28,232 Config file found!
+2022-06-01 14:33:28,235 Starting Conpot using template: /usr/lib/python3.9/site-packages/conpot/templates/IEC104
+2022-06-01 14:33:28,235 Starting Conpot using configuration found in: /etc/conpot/conpot.cfg
+2022-06-01 14:33:28,346 Serving tar:///usr/lib/python3.9/site-packages/conpot/data.tar as file system. File uploads will be kept at : /tmp/conpot
+2022-06-01 14:33:28,346 Opening path /tmp/conpot for persistent storage of files.
+2022-06-01 14:33:28,349 Initializing Virtual File System at /tmp/conpot/__conpot__6sxkc8o2. Source specified : tar:///usr/lib/python3.9/site-packages/conpot/data.tar
  Please wait while the system copies all specified files
-2022-06-01 14:22:41,922 Fetched 34.125.121.193 as external ip.
-2022-06-01 14:22:41,934 IEC 104 Server up
-2022-06-01 14:22:41,939 Found and enabled IEC104 protocol.
-2022-06-01 14:22:41,946 Found and enabled snmp protocol.
-2022-06-01 14:22:41,950 No proxy template found. Service will remain unconfigured/stopped.
-2022-06-01 14:22:41,951 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
-2022-06-01 14:22:43,250 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
-2022-06-01 14:22:46,310 SNMP server started on: ('0.0.0.0', 161)
+2022-06-01 14:33:28,475 Fetched 34.125.121.193 as external ip.
+2022-06-01 14:33:28,497 IEC 104 Server up
+2022-06-01 14:33:28,498 Found and enabled IEC104 protocol.
+2022-06-01 14:33:28,513 Found and enabled snmp protocol.
+2022-06-01 14:33:28,514 No proxy template found. Service will remain unconfigured/stopped.
+2022-06-01 14:33:28,514 IEC 60870-5-104 protocol server started on: ('0.0.0.0', 2404)
+2022-06-01 14:33:30,244 Skipped: OID for symbol ifOutUNcastPkts not found in MIB IF-MIB
+2022-06-01 14:33:33,453 SNMP server started on: ('0.0.0.0', 161)
+2022-06-01 15:44:27,112 New snmp session from 205.210.31.131 (a0c8f8c8-05ec-434a-a4f6-18a34f3c9f4c)
+2022-06-01 15:44:27,113 SNMPv1 Get request from ('205.210.31.131', 57770): 1.3.6.1.2.1.1.1.0 
+2022-06-01 15:44:27,113 SNMPv1 Get response to ('205.210.31.131', 57770): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2022-06-01 15:44:57,135 Session timed out: a0c8f8c8-05ec-434a-a4f6-18a34f3c9f4c
+2022-06-01 16:04:46,046 SNMP Exception: This class is not converted to new architecture
+2022-06-01 17:01:04,451 New snmp session from 192.241.216.32 (596ad55c-454a-40b8-af17-68e19c41c58d)
+2022-06-01 17:01:04,452 SNMPv1 Get request from ('192.241.216.32', 53039): 1.3.6.1.2.1.1.1.0 
+2022-06-01 17:01:04,452 SNMPv1 Get response to ('192.241.216.32', 53039): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2022-06-01 17:01:34,479 Session timed out: 596ad55c-454a-40b8-af17-68e19c41c58d
+2022-06-01 17:36:09,906 New snmp session from 64.62.197.212 (10f19eca-f023-4ae3-9330-cf5fb26fe90f)
+2022-06-01 17:36:09,906 SNMPv1 Get request from ('64.62.197.212', 46580): 1.3.6.1.2.1.1.5.0 
+2022-06-01 17:36:09,907 SNMPv1 Get response to ('64.62.197.212', 46580): 1.3.6.1.2.1.1.5.0 
+2022-06-01 17:36:39,925 Session timed out: 10f19eca-f023-4ae3-9330-cf5fb26fe90f
+2022-06-01 18:12:07,505 New snmp session from 147.203.255.20 (ae4c14c8-92a5-43ba-88c3-8324d012ca70)
+2022-06-01 18:12:07,512 SNMPv1 Get request from ('147.203.255.20', 55895): 1.3.6.1.2.1.1.1.0 
+2022-06-01 18:12:07,512 SNMPv1 Get response to ('147.203.255.20', 55895): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2022-06-01 18:12:37,535 Session timed out: ae4c14c8-92a5-43ba-88c3-8324d012ca70
+2022-06-01 19:38:14,215 SNMP Exception: This class is not converted to new architecture
+2022-06-01 19:49:11,447 SNMP Exception: This class is not converted to new architecture
+2022-06-01 20:30:34,172 New snmp session from 147.203.255.20 (93a82c37-edb3-4d49-ab90-0d8a5b173547)
+2022-06-01 20:30:34,173 SNMPv2 GetNext request from ('147.203.255.20', 45545): 1.3.6.1.2.1 
+2022-06-01 20:30:34,173 SNMPv2 GetNext response to ('147.203.255.20', 45545): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2022-06-01 20:31:04,190 Session timed out: 93a82c37-edb3-4d49-ab90-0d8a5b173547
+2022-06-01 21:56:07,213 SNMP Exception: This class is not converted to new architecture
+2022-06-01 22:16:13,247 New IEC104 session from 192.241.223.20 (bd58518f-3556-49b4-bc05-c8f602f88fa6)
+2022-06-01 22:16:13,248 New IEC 104 connection from 192.241.223.20:44674. (bd58518f-3556-49b4-bc05-c8f602f88fa6)
+2022-06-01 22:16:23,384 IEC104 Station disconnected. (bd58518f-3556-49b4-bc05-c8f602f88fa6)
+2022-06-01 22:16:55,408 Session timed out: bd58518f-3556-49b4-bc05-c8f602f88fa6

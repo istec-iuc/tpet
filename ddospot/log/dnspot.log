@@ -5,3 +5,10 @@ Full blacklist written: 74 scanners/attackers detected
 Weekly blacklist written: 74 scanners/attackers detected
 Daily blacklist written: 0 scanners/attackers detected
 DNSPot started at 0.0.0.0:53
+{"src_ip": "51.89.239.226", "src_port": 55202, "opcode": 6, "dns_name": "", "dns_type": "", "dns_cls": "", "time": "2022-06-01 17:43:30.641238"}
+{"src_ip": "51.89.239.226", "src_port": 60672, "opcode": 0, "dns_name": "1x1.cz", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-01 18:04:55.536603"}
+Error while resolving domain 1x1.cz, type ALL_RECORDS, class IN
+{"src_ip": "174.138.40.30", "src_port": 48213, "opcode": 0, "dns_name": "1654109732.227D79C1.2022-06-01-00-02-NXD.open-resolver-scan.research.icann.org", "dns_type": "TXT", "dns_cls": "IN", "time": "2022-06-01 18:55:32.090066"}
+Error while resolving domain 1654109732.227D79C1.2022-06-01-00-02-NXD.open-resolver-scan.research.icann.org, type TXT, class IN
+{"src_ip": "161.35.238.241", "src_port": 52245, "opcode": 6, "dns_name": "", "dns_type": "", "dns_cls": "", "time": "2022-06-01 23:16:28.489506"}
+{"src_ip": "162.142.125.179", "src_port": 2724, "opcode": 0, "dns_name": "ip.parrotdns.com", "dns_type": "A", "dns_cls": "IN", "time": "2022-06-01 23:54:58.475733"}

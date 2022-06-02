@@ -1,1 +1,19 @@
-{"asctime": "2022-06-01 14:22:33,119", "levelname": "INFO", "message": "Citrix CVE-2019-19781 Honeypot by MalwareTech"}
+{"asctime": "2022-06-01 14:33:17,866", "levelname": "INFO", "message": "Citrix CVE-2019-19781 Honeypot by MalwareTech"}
+{"asctime": "2022-06-01 16:10:29,374", "levelname": "INFO", "message": "(45.93.16.70:51038): GET Header: /configs/"}
+{"asctime": "2022-06-01 16:24:15,609", "levelname": "INFO", "message": "(192.241.213.10:42088): GET Header: /actuator/health"}
+{"asctime": "2022-06-01 19:15:15,764", "levelname": "INFO", "message": "(192.241.220.47:60298): GET Header: /"}
+{"asctime": "2022-06-01 20:05:36,003", "levelname": "INFO", "message": "(162.142.125.7:53106): GET Header: /"}
+{"asctime": "2022-06-01 20:05:37,047", "levelname": "INFO", "message": "(162.142.125.7:57674): GET Header: /"}
+{"asctime": "2022-06-01 21:21:34,041", "levelname": "INFO", "message": "(80.94.93.125:45479): GET Header: /a2billing/admin/Public/index.php"}
+{"asctime": "2022-06-01 21:35:14,284", "levelname": "INFO", "message": "(80.94.93.125:55070): GET Header: /recordings/"}
+{"asctime": "2022-06-01 21:50:42,583", "levelname": "INFO", "message": "(8.214.87.1:41498): GET Header: /"}
+{"asctime": "2022-06-01 21:54:25,260", "levelname": "INFO", "message": "(80.94.93.125:36595): GET Header: /admin/assets/css/bootstrap-rtl.css"}
+{"asctime": "2022-06-01 22:20:26,408", "levelname": "INFO", "message": "(71.6.135.131:44414): GET Header: /"}
+{"asctime": "2022-06-01 22:20:31,942", "levelname": "INFO", "message": "(71.6.135.131:50796): GET Header: /robots.txt"}
+{"asctime": "2022-06-01 22:20:31,988", "levelname": "INFO", "message": "(71.6.135.131:50828): GET Header: /sitemap.xml"}
+{"asctime": "2022-06-01 22:20:32,037", "levelname": "INFO", "message": "(71.6.135.131:50842): GET Header: /.well-known/security.txt"}
+{"asctime": "2022-06-01 22:20:35,532", "levelname": "INFO", "message": "(71.6.135.131:53600): GET Header: /favicon.ico"}
+{"asctime": "2022-06-01 22:20:36,954", "levelname": "INFO", "message": "(71.6.135.131:55848): GET Header: /vpns/"}
+{"asctime": "2022-06-01 23:18:10,930", "levelname": "INFO", "message": "(80.94.93.125:48299): GET Header: /admin//modules/"}
+{"asctime": "2022-06-01 23:59:18,618", "levelname": "INFO", "message": "(80.94.93.125:59711): GET Header: /admin/config.php?password[0]=ZIZO&username=admin"}
+{"asctime": "2022-06-01 23:59:18,964", "levelname": "INFO", "message": "(80.94.93.125:59713): GET Header: /admin/config.php?password[0]=ZIZO&username=admin"}

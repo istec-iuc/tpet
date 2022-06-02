@@ -1,5 +1,5 @@
 # ntp blacklist
-# Weekly list of scanners/attackers for period 2022-05-25 14:22:40.619824 - 2022-06-01 14:22:40.619824
+# Weekly list of scanners/attackers for period 2022-05-25 14:33:27.618951 - 2022-06-01 14:33:27.618951
 1.255.180.4
 2.7.42.39
 2.106.155.79
