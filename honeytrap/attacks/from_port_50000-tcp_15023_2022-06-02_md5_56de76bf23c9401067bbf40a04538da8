@@ -1,0 +1,6 @@
+GET http://v6.ipv6-test.com/json/widgetdata.php?callback=? HTTP/1.1
+Host: v6.ipv6-test.com
+Proxy-Connection: keep-alive
+Accept-Encoding: gzip,deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+

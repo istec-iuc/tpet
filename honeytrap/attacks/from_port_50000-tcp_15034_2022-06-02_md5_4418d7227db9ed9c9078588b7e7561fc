@@ -1,0 +1,2 @@
+CONNECT api4.my-ip.io:443 HTTP/1.1
+

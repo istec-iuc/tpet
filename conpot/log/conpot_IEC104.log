@@ -47,3 +47,35 @@
 2022-06-02 10:50:28,924 SNMP Exception: This class is not converted to new architecture
 2022-06-02 10:50:57,647 Session timed out: 4f91e4d1-ebc9-49db-86b8-7beb787b7dd8
 2022-06-02 11:46:11,217 SNMP Exception: This class is not converted to new architecture
+2022-06-02 14:26:30,713 SNMP Exception: This class is not converted to new architecture
+2022-06-02 15:14:16,910 New IEC104 session from 184.105.247.194 (9d9be742-51a0-438c-99a9-16ce458280ab)
+2022-06-02 15:14:16,911 New IEC 104 connection from 184.105.247.194:45626. (9d9be742-51a0-438c-99a9-16ce458280ab)
+2022-06-02 15:14:16,916 ('184.105.247.194', 45626) ---> u_frame. TESTFR act. (9d9be742-51a0-438c-99a9-16ce458280ab)
+2022-06-02 15:14:16,918 ('184.105.247.194', 45626) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (9d9be742-51a0-438c-99a9-16ce458280ab)
+2022-06-02 15:14:16,945 IEC104 Station disconnected. (9d9be742-51a0-438c-99a9-16ce458280ab)
+2022-06-02 15:14:34,232 New IEC104 session from 184.105.247.246 (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:34,232 New IEC 104 connection from 184.105.247.246:34961. (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,233 New IEC 104 connection from 184.105.247.246:20619. (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,267 ('184.105.247.246', 20619) ---> u_frame. TESTFR act. (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,267 ('184.105.247.246', 20619) <--- u_frame 0x68 0x4 0x83 0x0 0x0 0x0  (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,367 ('184.105.247.246', 20619) ---> u_frame. STARTDT act. (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,367 ('184.105.247.246', 20619) <--- u_frame 0x68 0x4 0xb 0x0 0x0 0x0  (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,469 ('184.105.247.246', 20619) ---> i_frame C_IC_NA_1 with {'TypeID': 100, 'SQ': 0, 'NoO': 1, 'T': 0, 'PN': 0, 'COT': 6, 'OrigAddr': 0, 'COA': 65535} Objects=[{'IOA': 0, 'QOI': 20}]  (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,472 ('184.105.247.246', 20619) <--- i_frame C_IC_NA_1 with {'COT': 7, 'COA': 7720} Objects=[{'QOI': 20}]  (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,640 ('184.105.247.246', 20619) <--- i_frame M_SP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 16, 'COA': 7720} Objects=[{'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1314048}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1379584}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 1445120}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1576192}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 1641728}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2100480}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2166016}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2231552}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2297088}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2362624}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2428160}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2493696}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2559232}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2624768}, {'SIQ': <SIQ  SPI=0x1 |>, 'IOA': 2690304}, {'SIQ': <SIQ  SPI=0x0 |>, 'IOA': 2755840}]  (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,650 ('184.105.247.246', 20619) <--- i_frame M_DP_NA_1 with {'SQ': 0, 'COT': 20, 'NoO': 10, 'COA': 7720} Objects=[{'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 139520}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 205056}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 270592}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 336128}, {'DIQ': <DIQ  DPI=0x2 |>, 'IOA': 401664}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 467200}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 532736}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 598272}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 663808}, {'DIQ': <DIQ  DPI=0x1 |>, 'IOA': 729344}]  (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,657 ('184.105.247.246', 20619) <--- i_frame M_ME_NB_1 with {'SQ': 0, 'COT': 20, 'NoO': 11, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 812032, 'SVA': 103}, {'QDS': <QDS  |>, 'IOA': 877568, 'SVA': 31}, {'QDS': <QDS  |>, 'IOA': 3367936, 'SVA': -49}, {'QDS': <QDS  |>, 'IOA': 7103488, 'SVA': 28871}, {'QDS': <QDS  |>, 'IOA': 7169024, 'SVA': 13781}, {'QDS': <QDS  |>, 'IOA': 11691008, 'SVA': 119}, {'QDS': <QDS  |>, 'IOA': 11756544, 'SVA': 219}, {'QDS': <QDS  |>, 'IOA': 12477440, 'SVA': 1009}, {'QDS': <QDS  |>, 'IOA': 12542976, 'SVA': -2}, {'QDS': <QDS  |>, 'IOA': 12608512, 'SVA': 701}, {'QDS': <QDS  |>, 'IOA': 12674048, 'SVA': 441}]  (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,667 ('184.105.247.246', 20619) <--- i_frame M_ME_NC_1 with {'SQ': 0, 'COT': 20, 'NoO': 22, 'COA': 7720} Objects=[{'QDS': <QDS  |>, 'IOA': 224000, 'FPNumber': 16.2}, {'QDS': <QDS  |>, 'IOA': 5073664, 'FPNumber': 15.9}, {'QDS': <QDS  |>, 'IOA': 5139200, 'FPNumber': 512.1}, {'QDS': <QDS  |>, 'IOA': 5204736, 'FPNumber': 433.4}, {'QDS': <QDS  |>, 'IOA': 5925632, 'FPNumber': 344.4}, {'QDS': <QDS  |>, 'IOA': 8547072, 'FPNumber': -0.44013}, {'QDS': <QDS  |>, 'IOA': 8612608, 'FPNumber': 43.0}, {'QDS': <QDS  |>, 'IOA': 8678144, 'FPNumber': 41.2}, {'QDS': <QDS  |>, 'IOA': 9267968, 'FPNumber': 12.1}, {'QDS': <QDS  |>, 'IOA': 13134592, 'FPNumber': 91}, {'QDS': <QDS  |>, 'IOA': 13200128, 'FPNumber': 98.8}, {'QDS': <QDS  |>, 'IOA': 13265664, 'FPNumber': 110}, {'QDS': <QDS  |>, 'IOA': 13331200, 'FPNumber': 85.1}, {'QDS': <QDS  |>, 'IOA': 13396736, 'FPNumber': 85.2}, {'QDS': <QDS  |>, 'IOA': 13462272, 'FPNumber': 410}, {'QDS': <QDS  |>, 'IOA': 13527808, 'FPNumber': 592}, {'QDS': <QDS  |>, 'IOA': 13593344, 'FPNumber': 1.5}, {'QDS': <QDS  |>, 'IOA': 13658880, 'FPNumber': 44.7}, {'QDS': <QDS  |>, 'IOA': 13724416, 'FPNumber': 11.9}, {'QDS': <QDS  |>, 'IOA': 13789952, 'FPNumber': 221.45}, {'QDS': <QDS  |>, 'IOA': 13855488, 'FPNumber': 13.4}, {'QDS': <QDS  |>, 'IOA': 13921024, 'FPNumber': 0.000402}]  (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,675 ('184.105.247.246', 20619) <--- i_frame C_IC_NA_1 with {'COT': 10, 'COA': 7720} Objects=[{'QOI': 20}]  (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:35,765 IEC104 Station disconnected. (72c8ca8f-944b-4673-9efd-25323f0a7d6e)
+2022-06-02 15:14:47,777 Session timed out: 9d9be742-51a0-438c-99a9-16ce458280ab
+2022-06-02 15:15:07,794 Session timed out: 72c8ca8f-944b-4673-9efd-25323f0a7d6e
+2022-06-02 15:30:18,840 New IEC104 session from 192.241.214.214 (7e5f6d5c-fd5a-436d-85b3-d836e7f0d9ac)
+2022-06-02 15:30:18,841 New IEC 104 connection from 192.241.214.214:41580. (7e5f6d5c-fd5a-436d-85b3-d836e7f0d9ac)
+2022-06-02 15:30:28,847 IEC104 Station disconnected. (7e5f6d5c-fd5a-436d-85b3-d836e7f0d9ac)
+2022-06-02 15:31:00,874 Session timed out: 7e5f6d5c-fd5a-436d-85b3-d836e7f0d9ac
+2022-06-02 17:07:17,489 SNMP Exception: This class is not converted to new architecture
+2022-06-02 17:37:12,703 New snmp session from 198.235.24.143 (f77e5dde-6fc9-4165-892b-a90de337a0ec)
+2022-06-02 17:37:12,704 SNMPv1 Get request from ('198.235.24.143', 62548): 1.3.6.1.2.1.1.1.0 
+2022-06-02 17:37:12,704 SNMPv1 Get response to ('198.235.24.143', 62548): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2022-06-02 17:37:42,729 Session timed out: f77e5dde-6fc9-4165-892b-a90de337a0ec

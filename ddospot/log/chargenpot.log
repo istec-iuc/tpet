@@ -5,3 +5,6 @@ Restored previous DB state - 14 unique IPs loaded
 ChargenPot starting at 0.0.0.0:19
 Restored previous DB state - 753 unique IPs loaded
 {"time": "2022-06-02 11:38:22.135087", "src_ip": "64.62.197.158", "src_port": 46087, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+Full blacklist written: 13 scanners/attackers detected
+Weekly blacklist written: 13 scanners/attackers detected
+Daily blacklist written: 3 scanners/attackers detected

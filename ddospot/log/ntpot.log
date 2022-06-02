@@ -402,3 +402,436 @@ Threshold reached for host 110.42.182.196 and mode 7 - will not respond to this 
 Flushing information for 1 IP(s) to database...
 {"time": "2022-06-02 11:48:44.590006", "src_ip": "184.105.247.211", "src_port": 19417, "mode": "MONLIST", "req_size": 12, "resp_size": 736, "req_pkt": "FwADKgAAAAAAAAAA"}
 Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 12:02:06.408044", "src_ip": "61.164.154.136", "src_port": 15100, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 61.164.154.136 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 12:02:06.716181", "src_ip": "61.164.154.136", "src_port": 7476, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 12:04:58.639720", "src_ip": "8.218.99.142", "src_port": 16414, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 8.218.99.142 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 12:04:58.974653", "src_ip": "8.218.99.142", "src_port": 41462, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 12:05:51.159586", "src_ip": "146.88.240.4", "src_port": 39453, "mode": "DATA", "req_size": 48, "resp_size": 48, "req_pkt": "4wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"}
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 12:08:48.578242", "src_ip": "42.192.181.167", "src_port": 59382, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 42.192.181.167 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 12:08:48.878014", "src_ip": "42.192.181.167", "src_port": 59382, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 12:21:19.866334", "src_ip": "209.141.32.207", "src_port": 57770, "mode": "MONLIST", "req_size": 192, "resp_size": 736, "req_pkt": "FwADKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"}
+{"time": "2022-06-02 12:35:31.430244", "src_ip": "18.177.177.141", "src_port": 44050, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 18.177.177.141 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 12:35:31.481750", "src_ip": "18.177.177.141", "src_port": 34935, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 12:45:27.793233", "src_ip": "118.112.240.193", "src_port": 54200, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 118.112.240.193 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 12:45:28.707408", "src_ip": "118.112.240.193", "src_port": 57182, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 12:52:55.018091", "src_ip": "45.154.96.251", "src_port": 45383, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 1 IP(s) to database...
+Full blacklist written: 1400 scanners/attackers detected
+Weekly blacklist written: 1400 scanners/attackers detected
+Daily blacklist written: 913 scanners/attackers detected
+Full blacklist written: 1400 scanners/attackers detected
+Weekly blacklist written: 1400 scanners/attackers detected
+Daily blacklist written: 913 scanners/attackers detected
+Full blacklist written: 1400 scanners/attackers detected
+Weekly blacklist written: 1400 scanners/attackers detected
+Daily blacklist written: 913 scanners/attackers detected
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 13:02:05.619446", "src_ip": "114.55.28.137", "src_port": 16174, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 114.55.28.137 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:02:05.632743", "src_ip": "114.55.28.137", "src_port": 50489, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 13:08:47.706596", "src_ip": "125.91.220.54", "src_port": 6229, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 125.91.220.54 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:08:47.720273", "src_ip": "125.91.220.54", "src_port": 36317, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 13:18:04.779499", "src_ip": "47.103.135.241", "src_port": 11651, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 47.103.135.241 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:18:04.790076", "src_ip": "47.103.135.241", "src_port": 54649, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 13:32:56.855311", "src_ip": "110.42.64.17", "src_port": 10591, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 110.42.64.17 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:32:56.866562", "src_ip": "110.42.64.17", "src_port": 39708, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 13:33:55.321951", "src_ip": "101.34.228.60", "src_port": 9299, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 101.34.228.60 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:33:55.419990", "src_ip": "101.34.228.60", "src_port": 713, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 3 IP(s) to database...
+{"time": "2022-06-02 13:36:09.742932", "src_ip": "43.138.136.76", "src_port": 24453, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 43.138.136.76 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:36:09.754865", "src_ip": "43.138.136.76", "src_port": 58256, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 13:37:27.897929", "src_ip": "103.91.208.18", "src_port": 14355, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 103.91.208.18 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:37:27.911976", "src_ip": "103.91.208.18", "src_port": 25465, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 3 IP(s) to database...
+{"time": "2022-06-02 13:41:11.945387", "src_ip": "116.7.45.242", "src_port": 39062, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 116.7.45.242 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:41:12.362405", "src_ip": "116.7.45.242", "src_port": 52748, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 13:44:55.966195", "src_ip": "20.205.97.113", "src_port": 14154, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 20.205.97.113 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:44:56.342747", "src_ip": "20.205.97.113", "src_port": 40588, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 13:47:55.935146", "src_ip": "35.187.230.150", "src_port": 65497, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 35.187.230.150 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:47:56.226212", "src_ip": "35.187.230.150", "src_port": 28199, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 13:50:11.221562", "src_ip": "123.129.198.210", "src_port": 5452, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 123.129.198.210 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:50:11.241234", "src_ip": "123.129.198.210", "src_port": 23341, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 13:54:36.066731", "src_ip": "42.157.129.164", "src_port": 60105, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 42.157.129.164 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:54:36.075561", "src_ip": "42.157.129.164", "src_port": 9466, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 13:55:51.134016", "src_ip": "15.204.37.128", "src_port": 57655, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 15.204.37.128 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:55:51.144975", "src_ip": "15.204.37.128", "src_port": 19245, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 13:56:01.238219", "src_ip": "34.111.50.215", "src_port": 35744, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 34.111.50.215 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 13:56:01.276290", "src_ip": "34.111.50.215", "src_port": 18490, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 5 IP(s) to database...
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 14:01:18.372153", "src_ip": "47.96.26.192", "src_port": 12695, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 47.96.26.192 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:01:18.393306", "src_ip": "47.96.26.192", "src_port": 28706, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 14:08:35.334136", "src_ip": "154.91.170.192", "src_port": 27459, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 154.91.170.192 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:08:35.852916", "src_ip": "154.91.170.192", "src_port": 35150, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:09:09.184807", "src_ip": "47.99.245.192", "src_port": 7064, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 47.99.245.192 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:09:09.242684", "src_ip": "47.99.245.192", "src_port": 44113, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 14:20:34.915029", "src_ip": "175.24.176.85", "src_port": 20870, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 175.24.176.85 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:20:34.923183", "src_ip": "175.24.176.85", "src_port": 11168, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 14:23:59.533339", "src_ip": "175.178.18.218", "src_port": 44457, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 175.178.18.218 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:23:59.595897", "src_ip": "175.178.18.218", "src_port": 60862, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:25:33.691510", "src_ip": "124.220.180.103", "src_port": 40073, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 124.220.180.103 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:25:33.713501", "src_ip": "124.220.180.103", "src_port": 23931, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 3 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 14:32:30.773642", "src_ip": "103.239.244.178", "src_port": 23180, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 103.239.244.178 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:32:31.118302", "src_ip": "103.239.244.178", "src_port": 13463, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 14:36:06.245636", "src_ip": "104.221.219.194", "src_port": 48495, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:37:36.346613", "src_ip": "45.125.236.195", "src_port": 45092, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:40:44.844507", "src_ip": "103.45.161.126", "src_port": 10973, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 103.45.161.126 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:40:44.858183", "src_ip": "103.45.161.126", "src_port": 53682, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 3 IP(s) to database...
+{"time": "2022-06-02 14:42:52.448233", "src_ip": "115.238.198.85", "src_port": 58376, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 115.238.198.85 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:42:53.100929", "src_ip": "115.238.198.85", "src_port": 58376, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:45:15.582369", "src_ip": "118.195.232.93", "src_port": 8725, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 118.195.232.93 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:45:15.668728", "src_ip": "118.195.232.93", "src_port": 34606, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 3 IP(s) to database...
+{"time": "2022-06-02 14:46:39.031476", "src_ip": "171.214.16.25", "src_port": 48815, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 171.214.16.25 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:46:39.115398", "src_ip": "171.214.16.25", "src_port": 21570, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:48:05.303502", "src_ip": "154.91.170.192", "src_port": 2256, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 154.91.170.192 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:48:05.841588", "src_ip": "154.91.170.192", "src_port": 43596, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:48:33.476047", "src_ip": "43.242.204.13", "src_port": 15988, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 43.242.204.13 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:48:33.678275", "src_ip": "43.242.204.13", "src_port": 5430, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:49:41.834141", "src_ip": "101.206.219.61", "src_port": 20884, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:49:41.845233", "src_ip": "119.91.71.3", "src_port": 20660, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 101.206.219.61 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:49:41.850255", "src_ip": "101.206.219.61", "src_port": 26358, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 119.91.71.3 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:49:42.194012", "src_ip": "119.91.71.3", "src_port": 20660, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 7 IP(s) to database...
+{"time": "2022-06-02 14:54:55.559117", "src_ip": "115.238.198.85", "src_port": 3983, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 115.238.198.85 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:54:55.568697", "src_ip": "115.238.198.85", "src_port": 40160, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:55:10.181829", "src_ip": "104.221.219.194", "src_port": 59616, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:55:42.566584", "src_ip": "45.125.236.195", "src_port": 54050, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 14:55:52.427194", "src_ip": "202.189.15.97", "src_port": 14713, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 202.189.15.97 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:55:52.451525", "src_ip": "202.189.15.97", "src_port": 4799, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 5 IP(s) to database...
+{"time": "2022-06-02 14:59:54.673302", "src_ip": "43.226.49.176", "src_port": 52804, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 43.226.49.176 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 14:59:54.684873", "src_ip": "43.226.49.176", "src_port": 43342, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 6 IP(s) to database...
+{"time": "2022-06-02 15:02:33.481925", "src_ip": "42.157.129.72", "src_port": 24436, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 42.157.129.72 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:02:33.492222", "src_ip": "42.157.129.72", "src_port": 43885, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:02:45.515074", "src_ip": "103.73.163.90", "src_port": 19639, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 103.73.163.90 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:02:45.613497", "src_ip": "103.73.163.90", "src_port": 40444, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 3 IP(s) to database...
+{"time": "2022-06-02 15:06:10.492155", "src_ip": "8.129.132.241", "src_port": 14761, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 8.129.132.241 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:06:10.558934", "src_ip": "8.129.132.241", "src_port": 47623, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:06:25.602088", "src_ip": "202.189.15.97", "src_port": 2407, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 202.189.15.97 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:06:25.616533", "src_ip": "202.189.15.97", "src_port": 49033, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:08:17.523375", "src_ip": "175.24.176.85", "src_port": 36163, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 175.24.176.85 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:08:17.537074", "src_ip": "175.24.176.85", "src_port": 36617, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:10:31.981555", "src_ip": "193.200.134.7", "src_port": 41540, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 193.200.134.7 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:10:31.994739", "src_ip": "193.200.134.7", "src_port": 12521, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 5 IP(s) to database...
+{"time": "2022-06-02 15:12:00.513675", "src_ip": "104.21.1.50", "src_port": 44504, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 104.21.1.50 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:12:00.622337", "src_ip": "104.21.1.50", "src_port": 23459, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 3 IP(s) to database...
+{"time": "2022-06-02 15:16:59.949140", "src_ip": "194.36.171.241", "src_port": 50329, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 194.36.171.241 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:16:59.961248", "src_ip": "194.36.171.241", "src_port": 29964, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:19:46.944526", "src_ip": "43.240.38.48", "src_port": 38557, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 43.240.38.48 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:19:46.957784", "src_ip": "43.240.38.48", "src_port": 55547, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 3 IP(s) to database...
+{"time": "2022-06-02 15:22:25.309642", "src_ip": "221.236.27.43", "src_port": 60249, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 221.236.27.43 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:22:25.320104", "src_ip": "221.236.27.43", "src_port": 35824, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:24:17.812887", "src_ip": "13.75.64.228", "src_port": 23248, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 13.75.64.228 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:24:17.839283", "src_ip": "13.75.64.228", "src_port": 10079, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:25:01.959206", "src_ip": "182.61.129.100", "src_port": 19908, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 182.61.129.100 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:25:02.132241", "src_ip": "182.61.129.100", "src_port": 20876, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:26:04.437381", "src_ip": "27.151.29.67", "src_port": 9844, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 27.151.29.67 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:26:04.455006", "src_ip": "27.151.29.67", "src_port": 26640, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 5 IP(s) to database...
+{"time": "2022-06-02 15:28:14.302916", "src_ip": "121.40.29.208", "src_port": 39376, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 121.40.29.208 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:28:14.312311", "src_ip": "121.40.29.208", "src_port": 15674, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:29:41.324896", "src_ip": "154.12.56.105", "src_port": 40078, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 154.12.56.105 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:29:41.683667", "src_ip": "154.12.56.105", "src_port": 1732, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:30:28.992185", "src_ip": "103.60.166.12", "src_port": 33506, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 103.60.166.12 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:30:29.324248", "src_ip": "103.60.166.12", "src_port": 21219, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:30:36.786814", "src_ip": "42.192.84.74", "src_port": 33891, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 42.192.84.74 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:30:36.829868", "src_ip": "42.192.84.74", "src_port": 25661, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 7 IP(s) to database...
+{"time": "2022-06-02 15:31:52.832641", "src_ip": "39.108.231.242", "src_port": 27315, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 39.108.231.242 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:31:52.846487", "src_ip": "39.108.231.242", "src_port": 42042, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:33:16.436355", "src_ip": "121.5.174.128", "src_port": 23111, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 121.5.174.128 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:33:16.452662", "src_ip": "121.5.174.128", "src_port": 39724, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:33:17.989279", "src_ip": "182.61.129.100", "src_port": 41773, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 182.61.129.100 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:33:18.037799", "src_ip": "182.61.129.100", "src_port": 48371, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Malformed NTP mode 7 packet received!
+{"time": "2022-06-02 15:35:37.752127", "src_ip": "171.214.11.93", "src_port": 19136, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 171.214.11.93 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:35:37.764115", "src_ip": "171.214.11.93", "src_port": 26027, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:36:04.157592", "src_ip": "103.60.166.12", "src_port": 16741, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 103.60.166.12 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:36:04.559102", "src_ip": "103.60.166.12", "src_port": 63055, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 7 IP(s) to database...
+{"time": "2022-06-02 15:36:22.421515", "src_ip": "154.38.224.93", "src_port": 8599, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 154.38.224.93 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:36:22.785966", "src_ip": "154.38.224.93", "src_port": 52713, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:37:48.462991", "src_ip": "121.204.253.138", "src_port": 5845, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 121.204.253.138 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:37:48.483143", "src_ip": "121.204.253.138", "src_port": 62268, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:39:12.799712", "src_ip": "101.33.252.58", "src_port": 22050, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 101.33.252.58 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:39:12.814810", "src_ip": "101.33.252.58", "src_port": 56010, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:40:35.744022", "src_ip": "171.214.16.41", "src_port": 36030, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 171.214.16.41 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:40:35.754770", "src_ip": "171.214.16.41", "src_port": 3058, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 7 IP(s) to database...
+{"time": "2022-06-02 15:41:57.993838", "src_ip": "43.142.129.4", "src_port": 57885, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 43.142.129.4 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:41:58.004243", "src_ip": "43.142.129.4", "src_port": 58758, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:42:15.483740", "src_ip": "81.69.4.4", "src_port": 29035, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 81.69.4.4 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:42:15.508803", "src_ip": "81.69.4.4", "src_port": 10745, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:44:11.190900", "src_ip": "171.214.11.93", "src_port": 9398, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 171.214.11.93 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:44:11.205337", "src_ip": "171.214.11.93", "src_port": 59917, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 7 IP(s) to database...
+{"time": "2022-06-02 15:47:09.073730", "src_ip": "81.69.29.154", "src_port": 47969, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 81.69.29.154 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:47:09.082957", "src_ip": "81.69.29.154", "src_port": 33404, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 15:53:07.133946", "src_ip": "150.158.148.186", "src_port": 3980, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 150.158.148.186 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:53:07.216440", "src_ip": "150.158.148.186", "src_port": 48060, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:54:06.297363", "src_ip": "43.154.180.160", "src_port": 14139, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 43.154.180.160 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:54:06.667874", "src_ip": "43.154.180.160", "src_port": 41204, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:55:09.707920", "src_ip": "23.224.148.155", "src_port": 30861, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 23.224.148.155 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:55:10.080178", "src_ip": "23.224.148.155", "src_port": 41720, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:55:27.471347", "src_ip": "1.14.69.158", "src_port": 15722, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 1.14.69.158 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:55:27.512731", "src_ip": "1.14.69.158", "src_port": 37680, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 5 IP(s) to database...
+{"time": "2022-06-02 15:57:34.183036", "src_ip": "222.186.43.97", "src_port": 1697, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 222.186.43.97 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:57:34.649172", "src_ip": "222.186.43.97", "src_port": 31324, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:57:59.542373", "src_ip": "139.196.189.232", "src_port": 8016, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 139.196.189.232 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:57:59.555863", "src_ip": "139.196.189.232", "src_port": 5963, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:58:09.380518", "src_ip": "101.32.187.115", "src_port": 51633, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 101.32.187.115 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:58:09.491557", "src_ip": "101.32.187.115", "src_port": 51332, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:59:07.484012", "src_ip": "101.35.122.35", "src_port": 47949, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 101.35.122.35 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:59:07.493949", "src_ip": "101.35.122.35", "src_port": 57825, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 15:59:28.346248", "src_ip": "39.104.70.177", "src_port": 19104, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 39.104.70.177 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 15:59:28.357257", "src_ip": "39.104.70.177", "src_port": 6146, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:00:39.007323", "src_ip": "39.104.52.122", "src_port": 51414, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 39.104.52.122 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:00:39.025413", "src_ip": "39.104.52.122", "src_port": 60157, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 8 IP(s) to database...
+{"time": "2022-06-02 16:01:43.899744", "src_ip": "42.157.129.164", "src_port": 1378, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 42.157.129.164 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:01:43.909901", "src_ip": "42.157.129.164", "src_port": 24314, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:02:37.009520", "src_ip": "119.91.76.48", "src_port": 30877, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 119.91.76.48 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:02:37.020778", "src_ip": "119.91.76.48", "src_port": 19092, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:04:54.826392", "src_ip": "39.99.228.79", "src_port": 1093, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 39.99.228.79 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:04:54.860196", "src_ip": "39.99.228.79", "src_port": 27002, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:05:27.619418", "src_ip": "117.95.193.23", "src_port": 37200, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 117.95.193.23 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:05:27.628094", "src_ip": "117.95.193.23", "src_port": 11187, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 6 IP(s) to database...
+{"time": "2022-06-02 16:06:12.309054", "src_ip": "45.120.184.182", "src_port": 18225, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 45.120.184.182 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:06:12.431759", "src_ip": "45.120.184.182", "src_port": 42055, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:06:46.660459", "src_ip": "104.166.112.42", "src_port": 49968, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 104.166.112.42 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:06:46.671145", "src_ip": "104.166.112.42", "src_port": 19404, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:07:45.868848", "src_ip": "103.88.32.31", "src_port": 35018, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 103.88.32.31 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:07:45.999699", "src_ip": "103.88.32.31", "src_port": 11222, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:08:51.910060", "src_ip": "222.179.226.80", "src_port": 17860, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 222.179.226.80 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:08:51.921052", "src_ip": "222.179.226.80", "src_port": 2558, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:10:00.230293", "src_ip": "124.248.67.158", "src_port": 33155, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 124.248.67.158 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:10:00.257238", "src_ip": "124.248.67.158", "src_port": 43723, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:10:06.280963", "src_ip": "209.141.32.207", "src_port": 51184, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:10:53.989312", "src_ip": "171.214.11.77", "src_port": 61537, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 171.214.11.77 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:10:54.123378", "src_ip": "171.214.11.77", "src_port": 63678, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 8 IP(s) to database...
+{"time": "2022-06-02 16:15:41.684895", "src_ip": "124.223.42.171", "src_port": 54598, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 124.223.42.171 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:15:41.817228", "src_ip": "124.223.42.171", "src_port": 1305, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 4 IP(s) to database...
+{"time": "2022-06-02 16:16:50.178981", "src_ip": "101.34.216.58", "src_port": 58698, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 101.34.216.58 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:16:50.544516", "src_ip": "101.34.216.58", "src_port": 58698, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:17:09.394471", "src_ip": "43.248.187.67", "src_port": 26303, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 43.248.187.67 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:17:09.467813", "src_ip": "43.248.187.67", "src_port": 4755, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:18:06.808103", "src_ip": "42.192.181.167", "src_port": 35063, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 42.192.181.167 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:18:07.651181", "src_ip": "42.192.181.167", "src_port": 4897, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 4 IP(s) to database...
+{"time": "2022-06-02 16:22:50.371435", "src_ip": "45.117.10.190", "src_port": 41646, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 45.117.10.190 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:22:50.510499", "src_ip": "45.117.10.190", "src_port": 53629, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:23:02.538664", "src_ip": "117.95.193.23", "src_port": 6099, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 117.95.193.23 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:23:02.549357", "src_ip": "117.95.193.23", "src_port": 60031, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:23:41.620905", "src_ip": "20.214.136.128", "src_port": 46678, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 20.214.136.128 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:23:42.001583", "src_ip": "20.214.136.128", "src_port": 64928, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 4 IP(s) to database...
+{"time": "2022-06-02 16:27:47.956165", "src_ip": "172.67.180.146", "src_port": 62102, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 172.67.180.146 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:27:47.968138", "src_ip": "172.67.180.146", "src_port": 32307, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:27:58.659705", "src_ip": "20.214.137.102", "src_port": 5733, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 20.214.137.102 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:27:59.016343", "src_ip": "20.214.137.102", "src_port": 42068, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 16:29:03.578778", "src_ip": "103.239.247.18", "src_port": 45543, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 103.239.247.18 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:29:03.616307", "src_ip": "103.239.247.18", "src_port": 22882, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 4 IP(s) to database...
+{"time": "2022-06-02 16:34:09.323777", "src_ip": "1.14.155.107", "src_port": 23562, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 1.14.155.107 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:34:09.332910", "src_ip": "1.14.155.107", "src_port": 24945, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 16:43:03.767654", "src_ip": "45.154.96.251", "src_port": 18568, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 16:58:05.863870", "src_ip": "23.224.109.246", "src_port": 44009, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 23.224.109.246 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 16:58:05.873595", "src_ip": "23.224.109.246", "src_port": 27520, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 17:08:35.334803", "src_ip": "121.62.22.90", "src_port": 18076, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 121.62.22.90 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 17:08:35.358184", "src_ip": "121.62.22.90", "src_port": 23633, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 17:20:06.036541", "src_ip": "47.57.185.36", "src_port": 56963, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 47.57.185.36 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 17:20:06.118471", "src_ip": "47.57.185.36", "src_port": 57028, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+Flushing information for 2 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 17:31:33.045609", "src_ip": "62.197.136.31", "src_port": 47291, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 17:56:23.835830", "src_ip": "101.206.219.61", "src_port": 29401, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 101.206.219.61 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 17:56:23.846547", "src_ip": "101.206.219.61", "src_port": 36838, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 18:09:34.188077", "src_ip": "43.240.159.234", "src_port": 34762, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 43.240.159.234 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 18:09:34.199505", "src_ip": "43.240.159.234", "src_port": 55246, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 18:34:34.054432", "src_ip": "103.100.210.54", "src_port": 36082, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 103.100.210.54 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 18:34:34.075195", "src_ip": "103.100.210.54", "src_port": 50273, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 18:40:49.596528", "src_ip": "129.226.13.237", "src_port": 48539, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 129.226.13.237 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 18:40:49.644875", "src_ip": "129.226.13.237", "src_port": 63868, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Flushing information for 2 IP(s) to database...
+{"time": "2022-06-02 18:42:14.970758", "src_ip": "175.178.156.249", "src_port": 27669, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+Threshold reached for host 175.178.156.249 and mode 7 - will not respond to this host/mode pair
+{"time": "2022-06-02 18:42:14.981074", "src_ip": "175.178.156.249", "src_port": 28965, "mode": "MONLIST", "req_size": 8, "resp_size": 736, "req_pkt": "FwADKgAAAAA="}
+{"time": "2022-06-02 18:45:54.370471", "src_ip": "107.189.12.100", "src_port": 52127, "mode": "MONLIST", "req_size": 192, "resp_size": 736, "req_pkt": "FwADKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"}
+Flushing information for 3 IP(s) to database...
+{"time": "2022-06-02 18:49:45.207625", "src_ip": "209.141.32.207", "src_port": 52450, "mode": "MONLIST", "req_size": 192, "resp_size": 736, "req_pkt": "FwADKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"}
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 19:11:46.928503", "src_ip": "209.141.32.225", "src_port": 41757, "mode": "MONLIST", "req_size": 192, "resp_size": 736, "req_pkt": "FwADKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"}
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+{"time": "2022-06-02 19:33:51.513448", "src_ip": "162.142.125.188", "src_port": 59282, "mode": "DATA", "req_size": 48, "resp_size": 48, "req_pkt": "4wAE+gABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMVPI0txsVLz"}
+{"time": "2022-06-02 19:33:51.632376", "src_ip": "162.142.125.212", "src_port": 58367, "mode": "DATA", "req_size": 48, "resp_size": 48, "req_pkt": "GwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"}
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
+Flushing information for 1 IP(s) to database...
