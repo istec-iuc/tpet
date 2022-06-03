@@ -377,3 +377,160 @@ Flushing information for 5 (IP, dns, type, class) quartets to database...
 Threshold reached for quartet ('77.204.197.202', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
 {"src_ip": "31.182.190.60", "src_port": 65535, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 19:59:46.316549"}
 Threshold reached for quartet ('31.182.190.60', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 4 (IP, dns, type, class) quartets to database...
+{"src_ip": "194.207.126.126", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:03:53.608291"}
+Threshold reached for quartet ('194.207.126.126', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "104.140.188.10", "src_port": 56465, "opcode": 0, "dns_name": "version.bind", "dns_type": "TXT", "dns_cls": "CH", "time": "2022-06-02 20:05:20.771135"}
+{"src_ip": "194.63.130.108", "src_port": 65535, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:06:01.117119"}
+Threshold reached for quartet ('194.63.130.108', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+New attack started for quartet ('185.117.0.93', 'sl', 'ALL_RECORDS', 'IN')
+{"src_ip": "185.117.0.93", "src_port": 30120, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:06:10.714175"}
+Flushing information for 5 (IP, dns, type, class) quartets to database...
+Threshold reached for quartet ('185.117.0.93', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "24.21.228.183", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:11:16.916273"}
+Flushing information for 4 (IP, dns, type, class) quartets to database...
+Threshold reached for quartet ('24.21.228.183', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "31.223.235.169", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:11:39.774565"}
+Threshold reached for quartet ('31.223.235.169', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "108.237.237.131", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:12:37.724773"}
+Threshold reached for quartet ('108.237.237.131', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "174.18.48.210", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:13:09.337156"}
+Threshold reached for quartet ('174.18.48.210', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "51.81.49.186", "src_port": 30120, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:13:48.378470"}
+Threshold reached for quartet ('51.81.49.186', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "73.14.121.48", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:14:31.387866"}
+Threshold reached for quartet ('73.14.121.48', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "108.200.37.254", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:15:42.940602"}
+Threshold reached for quartet ('108.200.37.254', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 7 (IP, dns, type, class) quartets to database...
+{"src_ip": "72.182.197.240", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:20:02.960624"}
+Threshold reached for quartet ('72.182.197.240', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "67.172.33.221", "src_port": 6672, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:20:23.201750"}
+Threshold reached for quartet ('67.172.33.221', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 5 (IP, dns, type, class) quartets to database...
+{"src_ip": "136.55.43.0", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:22:07.989147"}
+Threshold reached for quartet ('136.55.43.0', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 3 (IP, dns, type, class) quartets to database...
+{"src_ip": "100.14.115.248", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 20:42:59.048671"}
+Threshold reached for quartet ('100.14.115.248', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 1 (IP, dns, type, class) quartets to database...
+{"src_ip": "185.25.206.35", "src_port": 53, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 21:14:47.714467"}
+Threshold reached for quartet ('185.25.206.35', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 1 (IP, dns, type, class) quartets to database...
+{"src_ip": "212.192.241.64", "src_port": 3809, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 21:21:14.179649"}
+New attack started for quartet ('178.237.56.152', 'sl', 'ALL_RECORDS', 'IN')
+{"src_ip": "178.237.56.152", "src_port": 3037, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 21:21:32.078739"}
+Threshold reached for quartet ('178.237.56.152', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "135.181.45.33", "src_port": 5066, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 21:22:29.296865"}
+Threshold reached for quartet ('135.181.45.33', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "212.19.3.135", "src_port": 8502, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 21:24:41.277978"}
+Threshold reached for quartet ('212.19.3.135', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 3 (IP, dns, type, class) quartets to database...
+{"src_ip": "89.171.136.59", "src_port": 12458, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 21:27:18.093895"}
+Threshold reached for quartet ('89.171.136.59', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 1 (IP, dns, type, class) quartets to database...
+{"src_ip": "108.61.210.201", "src_port": 4044, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 21:38:52.739322"}
+Threshold reached for quartet ('108.61.210.201', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 1 (IP, dns, type, class) quartets to database...
+{"src_ip": "71.223.46.108", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 21:45:56.875726"}
+Threshold reached for quartet ('71.223.46.108', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 1 (IP, dns, type, class) quartets to database...
+Flushing information for 1 (IP, dns, type, class) quartets to database...
+{"src_ip": "12.13.234.243", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 22:04:42.734155"}
+Threshold reached for quartet ('12.13.234.243', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 1 (IP, dns, type, class) quartets to database...
+{"src_ip": "154.89.5.82", "src_port": 44321, "opcode": 0, "dns_name": "clients1.google.com", "dns_type": "A", "dns_cls": "IN", "time": "2022-06-02 22:07:09.460960"}
+{"src_ip": "109.196.52.197", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 22:19:54.922111"}
+Threshold reached for quartet ('109.196.52.197', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 1 (IP, dns, type, class) quartets to database...
+{"src_ip": "70.78.133.59", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 22:25:42.461716"}
+Threshold reached for quartet ('70.78.133.59', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 2 (IP, dns, type, class) quartets to database...
+Flushing information for 1 (IP, dns, type, class) quartets to database...
+{"src_ip": "80.2.173.75", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 22:32:48.854125"}
+Threshold reached for quartet ('80.2.173.75', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 2 (IP, dns, type, class) quartets to database...
+{"src_ip": "75.84.17.15", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 22:37:28.559226"}
+Threshold reached for quartet ('75.84.17.15', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "96.11.22.227", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 22:38:21.899252"}
+Threshold reached for quartet ('96.11.22.227', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 3 (IP, dns, type, class) quartets to database...
+{"src_ip": "82.132.228.175", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 22:41:40.105855"}
+Threshold reached for quartet ('82.132.228.175', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 2 (IP, dns, type, class) quartets to database...
+{"src_ip": "96.244.74.98", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:07:19.457344"}
+Threshold reached for quartet ('96.244.74.98', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "152.97.188.35", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:09:07.549648"}
+Threshold reached for quartet ('152.97.188.35', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "184.88.209.172", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:11:02.529104"}
+Threshold reached for quartet ('184.88.209.172', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 3 (IP, dns, type, class) quartets to database...
+{"src_ip": "71.63.23.154", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:12:47.544909"}
+Threshold reached for quartet ('71.63.23.154', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "67.249.202.153", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:15:03.612217"}
+Threshold reached for quartet ('67.249.202.153', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "73.36.70.119", "src_port": 53, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:15:17.780114"}
+Threshold reached for quartet ('73.36.70.119', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 4 (IP, dns, type, class) quartets to database...
+{"src_ip": "107.107.59.85", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:16:38.969565"}
+Threshold reached for quartet ('107.107.59.85', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "70.240.232.188", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:18:06.994756"}
+Threshold reached for quartet ('70.240.232.188', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "20.124.42.54", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:20:46.111140"}
+Threshold reached for quartet ('20.124.42.54', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 4 (IP, dns, type, class) quartets to database...
+{"src_ip": "67.87.208.209", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:21:34.958615"}
+Threshold reached for quartet ('67.87.208.209', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "185.100.87.160", "src_port": 46470, "opcode": 0, "dns_name": "VERSION.BIND", "dns_type": "TXT", "dns_cls": "CH", "time": "2022-06-02 23:23:17.258988"}
+Error while resolving domain VERSION.BIND, type TXT, class CH
+{"src_ip": "185.100.87.160", "src_port": 33609, "opcode": 0, "dns_name": "aaa.stage.whatever", "dns_type": "TXT", "dns_cls": "IN", "time": "2022-06-02 23:23:17.686963"}
+Error while resolving domain aaa.stage.whatever, type TXT, class IN
+{"src_ip": "204.141.214.64", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:25:00.546687"}
+Threshold reached for quartet ('204.141.214.64', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "46.174.210.64", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:25:03.636728"}
+Threshold reached for quartet ('46.174.210.64', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 4 (IP, dns, type, class) quartets to database...
+{"src_ip": "8.40.107.110", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:28:21.064835"}
+Threshold reached for quartet ('8.40.107.110', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 3 (IP, dns, type, class) quartets to database...
+{"src_ip": "31.214.239.19", "src_port": 7813, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:32:16.733244"}
+Threshold reached for quartet ('31.214.239.19', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+New attack started for quartet ('46.174.210.64', 'sl', 'ALL_RECORDS', 'IN')
+{"src_ip": "46.174.210.64", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:35:15.959003"}
+Threshold reached for quartet ('46.174.210.64', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 4 (IP, dns, type, class) quartets to database...
+{"src_ip": "144.126.153.123", "src_port": 35500, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:36:52.860010"}
+Threshold reached for quartet ('144.126.153.123', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "23.227.131.170", "src_port": 35104, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:37:46.843464"}
+Threshold reached for quartet ('23.227.131.170', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+New attack started for quartet ('23.227.134.122', 'sl', 'ALL_RECORDS', 'IN')
+{"src_ip": "23.227.134.122", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:38:18.360617"}
+Threshold reached for quartet ('23.227.134.122', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+New attack started for quartet ('193.200.209.130', 'sl', 'ALL_RECORDS', 'IN')
+{"src_ip": "193.200.209.130", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:38:32.369811"}
+Threshold reached for quartet ('193.200.209.130', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+New attack started for quartet ('178.237.56.152', 'sl', 'ALL_RECORDS', 'IN')
+{"src_ip": "178.237.56.152", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:38:50.727813"}
+Threshold reached for quartet ('178.237.56.152', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "194.88.104.81", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:39:57.818709"}
+Threshold reached for quartet ('194.88.104.81', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 7 (IP, dns, type, class) quartets to database...
+{"src_ip": "85.239.33.7", "src_port": 39983, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:41:50.029836"}
+Threshold reached for quartet ('85.239.33.7', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+New attack started for quartet ('23.227.146.106', 'sl', 'ALL_RECORDS', 'IN')
+{"src_ip": "23.227.146.106", "src_port": 29997, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:42:11.982745"}
+Threshold reached for quartet ('23.227.146.106', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+{"src_ip": "205.210.31.26", "src_port": 64192, "opcode": 0, "dns_name": "VERSION.BIND", "dns_type": "TXT", "dns_cls": "CH", "time": "2022-06-02 23:42:22.668544"}
+Error while resolving domain VERSION.BIND, type TXT, class CH
+New attack started for quartet ('31.214.239.19', 'sl', 'ALL_RECORDS', 'IN')
+{"src_ip": "31.214.239.19", "src_port": 7813, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:42:45.029669"}
+Threshold reached for quartet ('31.214.239.19', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+New attack started for quartet ('62.210.176.148', 'sl', 'ALL_RECORDS', 'IN')
+{"src_ip": "62.210.176.148", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:44:39.591027"}
+Threshold reached for quartet ('62.210.176.148', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 4 (IP, dns, type, class) quartets to database...
+{"src_ip": "8.40.107.128", "src_port": 80, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:50:17.234372"}
+Threshold reached for quartet ('8.40.107.128', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple
+Flushing information for 1 (IP, dns, type, class) quartets to database...
+{"src_ip": "37.10.98.66", "src_port": 7789, "opcode": 0, "dns_name": "sl", "dns_type": "ALL_RECORDS", "dns_cls": "IN", "time": "2022-06-02 23:58:01.259223"}
+Threshold reached for quartet ('37.10.98.66', 'sl', 'ALL_RECORDS', 'IN') - will not respond to this host/query tuple

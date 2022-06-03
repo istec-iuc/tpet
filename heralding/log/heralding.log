@@ -34,3 +34,19 @@
 2022-06-02 17:01:03,099 (heralding.honeypot) Found public ip: 34.125.121.193
 2022-06-02 18:01:03,420 (heralding.honeypot) Found public ip: 34.125.121.193
 2022-06-02 19:01:03,738 (heralding.honeypot) Found public ip: 34.125.121.193
+2022-06-02 20:01:04,062 (heralding.honeypot) Found public ip: 34.125.121.193
+2022-06-02 21:01:04,381 (heralding.honeypot) Found public ip: 34.125.121.193
+2022-06-02 21:31:41,064 (asyncio) Task exception was never retrieved
+future: <Task finished name='Task-687' coro=<HandlerBase.handle_session() done, defined at /usr/lib/python3.9/site-packages/heralding/capabilities/handlerbase.py:74> exception=KeyError('user')>
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/heralding/capabilities/handlerbase.py", line 86, in handle_session
+    await asyncio.wait_for(
+  File "/usr/lib/python3.9/asyncio/tasks.py", line 481, in wait_for
+    return fut.result()
+  File "/usr/lib/python3.9/site-packages/heralding/capabilities/postgresql.py", line 13, in execute_capability
+    await self._handle_session(session, reader, writer)
+  File "/usr/lib/python3.9/site-packages/heralding/capabilities/postgresql.py", line 38, in _handle_session
+    username = login_dict['user']
+KeyError: 'user'
+2022-06-02 22:01:04,703 (heralding.honeypot) Found public ip: 34.125.121.193
+2022-06-02 23:01:05,031 (heralding.honeypot) Found public ip: 34.125.121.193

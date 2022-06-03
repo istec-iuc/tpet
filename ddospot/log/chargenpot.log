@@ -8,3 +8,4 @@ Restored previous DB state - 753 unique IPs loaded
 Full blacklist written: 13 scanners/attackers detected
 Weekly blacklist written: 13 scanners/attackers detected
 Daily blacklist written: 3 scanners/attackers detected
+{"time": "2022-06-02 22:59:59.766887", "src_ip": "185.94.111.1", "src_port": 36514, "req_size": 0, "resp_size": 1024, "req_pkt": ""}

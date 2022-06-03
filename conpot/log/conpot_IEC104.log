@@ -79,3 +79,17 @@
 2022-06-02 17:37:12,704 SNMPv1 Get request from ('198.235.24.143', 62548): 1.3.6.1.2.1.1.1.0 
 2022-06-02 17:37:12,704 SNMPv1 Get response to ('198.235.24.143', 62548): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
 2022-06-02 17:37:42,729 Session timed out: f77e5dde-6fc9-4165-892b-a90de337a0ec
+2022-06-02 20:06:36,294 SNMP Exception: This class is not converted to new architecture
+2022-06-02 21:07:53,210 New snmp session from 167.248.133.133 (8d5a4b20-1258-4ec7-aa28-1d83227704ec)
+2022-06-02 21:07:53,211 SNMPv2 Get request from ('167.248.133.133', 29073): 1.3.6.1.2.1.1.5.0 
+2022-06-02 21:07:53,211 SNMPv2 Get response to ('167.248.133.133', 29073): 1.3.6.1.2.1.1.5.0 
+2022-06-02 21:07:53,482 New snmp session from 167.248.133.117 (4de75111-9e58-413a-8ce5-2963740c03fd)
+2022-06-02 21:07:53,483 SNMPv2 Get request from ('167.248.133.117', 49196): 1.3.6.1.2.1.1.1.0 
+2022-06-02 21:07:53,483 SNMPv2 Get response to ('167.248.133.117', 49196): 1.3.6.1.2.1.1.1.0 Siemens, SIMATIC, S7-300
+2022-06-02 21:07:53,731 SNMPv2 Get request from ('167.248.133.117', 49196): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2022-06-02 21:07:53,732 SNMPv2 Get response to ('167.248.133.117', 49196): 1.3.6.1.2.1.47.1.1.1.1.7.0 
+2022-06-02 21:07:53,984 SNMPv2 Get request from ('167.248.133.117', 49196): 1.3.6.1.2.1.2.1.0 
+2022-06-02 21:07:53,984 SNMPv2 Get response to ('167.248.133.117', 49196): 1.3.6.1.2.1.2.1.0 1
+2022-06-02 21:08:24,008 Session timed out: 8d5a4b20-1258-4ec7-aa28-1d83227704ec
+2022-06-02 21:08:26,009 Session timed out: 4de75111-9e58-413a-8ce5-2963740c03fd
+2022-06-02 22:10:53,016 SNMP Exception: This class is not converted to new architecture

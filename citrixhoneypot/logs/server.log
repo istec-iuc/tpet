@@ -53,3 +53,13 @@
 {"asctime": "2022-06-02 19:27:48,196", "levelname": "INFO", "message": "(103.14.35.145:25298): GET Header: /favicon.ico"}
 {"asctime": "2022-06-02 19:27:49,708", "levelname": "INFO", "message": "(103.14.35.145:25586): GET Header: /favicon.ico"}
 {"asctime": "2022-06-02 19:38:56,963", "levelname": "INFO", "message": "(80.94.93.125:51269): GET Header: /admin/assets/css/bootstrap-rtl.css"}
+{"asctime": "2022-06-02 21:20:23,146", "levelname": "INFO", "message": "(80.94.93.125:37538): GET Header: /admin/config.php?password[0]=ZIZO&username=admin"}
+{"asctime": "2022-06-02 21:20:23,494", "levelname": "INFO", "message": "(80.94.93.125:37541): GET Header: /admin/config.php?password[0]=ZIZO&username=admin"}
+{"asctime": "2022-06-02 22:14:17,856", "levelname": "INFO", "message": "(162.142.125.212:49104): GET Header: /"}
+{"asctime": "2022-06-02 22:14:18,018", "levelname": "INFO", "message": "(162.142.125.212:54466): GET Header: /"}
+{"asctime": "2022-06-02 22:17:47,870", "levelname": "INFO", "message": "(154.209.125.54:53339): GET Header: /"}
+{"asctime": "2022-06-02 22:41:54,166", "levelname": "INFO", "message": "(207.244.242.166:59600): GET Header: /.env"}
+{"asctime": "2022-06-02 22:41:54,383", "levelname": "INFO", "message": "(207.244.242.166:59892): POST Header: /"}
+{"asctime": "2022-06-02 22:41:54,384", "levelname": "INFO", "message": "(207.244.242.166:59892): POST body: 0x%5B%5D=androxgh0st"}
+{"asctime": "2022-06-02 22:56:33,042", "levelname": "INFO", "message": "(80.94.93.125:60605): GET Header: /vtigercrm/test/upload/vtigercrm.txt"}
+{"asctime": "2022-06-02 23:36:59,430", "levelname": "INFO", "message": "(192.241.221.53:41242): GET Header: /actuator/health"}

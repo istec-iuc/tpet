@@ -1,0 +1,13 @@
+REGISTER sip:34.125.121.193:55060 SIP/2.0
+Via: SIP/2.0/TCP 141.98.11.83:34842;branch=z9hG4bK-4a8b34aca6b8eb7b5124a40d10-;rport
+Max-Forwards: 70
+From: <sip:101@34.125.121.193>;tag=41427c3839
+To: <sip:101@34.125.121.193>
+Call-ID: de2c4c4edbb02703101
+CSeq: 1 REGISTER
+User-Agent: Grandstream GXP2000 1.0.2.13
+Contact: <sip:101@141.98.11.83:34842;transport=TCP>
+Expires: 900
+Allow: INVITE, ACK, BYE, CANCEL, UPDATE, INFO, SUBSCRIBE, NOTIFY, REFER, MESSAGE, OPTIONS
+Content-Length:  0
+
